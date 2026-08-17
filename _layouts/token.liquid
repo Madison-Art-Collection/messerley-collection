@@ -7,7 +7,7 @@ layout: default
     <h1 class="coin-title">{{ page.title }}</h1>
     <div class="coin-metadata">
       {% if page.town %}
-        <span class="coin-period">{{ page.town }}</span>
+        <span class="coin-period">{{ page.town | join: " & " }}, Virginia</span>
       {% endif %}
       {% if page.denomination %}
         <span class="coin-date">{{ page.denomination }}</span>
@@ -53,7 +53,7 @@ layout: default
       <dl>
         {% if page.town %}
           <dt>Town:</dt>
-          <dd>{{ page.town }}</dd>
+          <dd>{{ page.town | join: " & " }}, Virginia</dd>
         {% endif %}
 
         {% if page.merchant %}
@@ -84,11 +84,6 @@ layout: default
         {% if page.rarity %}
           <dt>Rarity:</dt>
           <dd>{{ page.rarity }}</dd>
-        {% endif %}
-
-        {% if page.estimated_price %}
-          <dt>Estimated Value:</dt>
-          <dd>{{ page.estimated_price }}</dd>
         {% endif %}
 
         {% if page.catalog_reference %}

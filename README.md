@@ -1,13 +1,13 @@
-# Messerly Collection Website
+# Messerley Collection Website
 
-A Jekyll (al-folio-based) showcase site for the **Messerly Collection** — a set of
+A Jekyll (al-folio-based) showcase site for the **Messerley Collection** — a set of
 Virginia trade tokens digitized from a physical binder collection. Home page shows
 featured tokens; `/collection/` is the full, filterable gallery; each token has its
 own detail page with obverse/reverse images and metadata.
 
 This site's theme/layout code was ported from the `fall-of-the-republic` Roman-coin
 collection site (a sibling project using the same al-folio pattern), with the
-`_coins` collection renamed and reshaped into `_tokens` to match the Messerly data
+`_coins` collection renamed and reshaped into `_tokens` to match the Messerley data
 schema. No coin content or images were copied over — see `ADDING_TOKENS.md` for the
 token front-matter schema and workflow for adding entries.
 

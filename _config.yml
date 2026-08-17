@@ -2,20 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Messerly Collection # the website title (if blank, full name will be used instead)
+title: Messerley Collection # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name:
 contact_note:
-description: Virginia trade tokens from the Messerly Collection
+description: Virginia trade tokens from the Messerley Collection
 
 footer_text:
 keywords:  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🎟️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: # TODO: set once a hosting destination (e.g. GitHub Pages repo) is chosen
-baseurl:
+url: https://madison-art-collection.github.io
+baseurl: /messerley-collection
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button

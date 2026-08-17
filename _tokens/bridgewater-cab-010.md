@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "10¢ Token — Bridgewater Cab, Bridgewater"
-town: Bridgewater
+town: ["Bridgewater"]
 merchant: "Bridgewater Cab"
 denomination: "$0.10"
-style: "RD. PLASTIC"
+style: "Round Plastic"
 rarity: "50-100 KNOWN"
-estimated_price: "$10.00"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-cab-010/bridgewater-cab-010-obverse.jpg

@@ -2,7 +2,7 @@
 layout: page
 title: Collection
 permalink: /collection/
-description: Browse the complete Messerly Collection
+description: Browse the complete Messerley Collection
 nav: true
 nav_order: 2
 ---
@@ -13,7 +13,7 @@ nav_order: 2
 
 <div class="collection-filters">
   <button class="filter-btn active" data-filter="all">All Towns</button>
-  {% assign towns = site.tokens | map: "town" | uniq | sort %}
+  {% assign towns = site.tokens | map: "town" | join: "|" | split: "|" | uniq | sort %}
   {% for town in towns %}
     <button class="filter-btn" data-filter="{{ town | downcase }}">{{ town }}</button>
   {% endfor %}
@@ -22,7 +22,7 @@ nav_order: 2
 <div class="showcase-gallery">
   {% assign all_tokens = site.tokens %}
   {% for token in all_tokens %}
-    <div class="showcase-item" data-sort-key="{{ token.sort_key }}" data-town="{{ token.town | downcase }}">
+    <div class="showcase-item" data-sort-key="{{ token.sort_key }}" data-town="{{ token.town | join: '|' | downcase }}">
       <a href="{{ token.url | relative_url }}">
         {% if token.image_aligned %}
           {% assign img_path = token.image_aligned | remove: '.png' | remove: '.jpg' %}
@@ -47,7 +47,7 @@ nav_order: 2
         {% endif %}
         <div class="showcase-overlay">
           <h3>{{ token.title }}</h3>
-          <p>{{ token.town }} • {{ token.denomination }}</p>
+          <p>{{ token.town | join: " & " }}, Virginia • {{ token.denomination }}</p>
         </div>
       </a>
     </div>
@@ -186,7 +186,8 @@ document.addEventListener('DOMContentLoaded', function() {
       const filter = this.dataset.filter;
 
       showcaseItems.forEach(item => {
-        item.style.display = (filter === 'all' || item.dataset.town === filter) ? 'flex' : 'none';
+        const towns = item.dataset.town.split('|');
+        item.style.display = (filter === 'all' || towns.includes(filter)) ? 'flex' : 'none';
       });
     });
   });

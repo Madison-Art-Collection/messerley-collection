@@ -1,0 +1,18 @@
+---
+layout: token
+title: "1¢ Token — W. C. Wampler, Mt. Clinton"
+town: ["Mt. Clinton"]
+merchant: "W. C. Wampler"
+denomination: "$0.01"
+style: "Round Aluminum"
+rarity: "LESS THAN 5"
+catalog_reference:
+match_tier: exact
+image_obverse: tokens/mt-clinton-w-c-wampler-001/mt-clinton-w-c-wampler-001-obverse.jpg
+image_reverse: tokens/mt-clinton-w-c-wampler-001/mt-clinton-w-c-wampler-001-reverse.jpg
+image_aligned: tokens/mt-clinton-w-c-wampler-001/mt-clinton-w-c-wampler-001-aligned.jpg
+obverse_description:
+reverse_description:
+sort_key: "Mt. Clinton|W. C. Wampler|$0.01"
+featured: false
+---

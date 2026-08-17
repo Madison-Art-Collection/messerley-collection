@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "Encased Cent — Hensley Sales and Service, Elkton"
-town: Elkton
+town: ["Elkton"]
 merchant: "Hensley Sales and Service"
 denomination: "$0.01"
-style: "LUCKY PIECE"
+style: "Lucky Piece"
 rarity: "25-50 KNOWN"
-estimated_price: "$40.00"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/elkton-hensley-encased-cent/elkton-hensley-encased-cent-obverse.jpg

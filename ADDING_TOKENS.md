@@ -23,7 +23,7 @@ git commit -m "Add [Town] [Merchant] [Denomination] token"
 git push
 ```
 
-## Sourcing images from the Messerly digitization pipeline
+## Sourcing images from the Messerley digitization pipeline
 
 If the token comes from the parent `messerly-collection/` digitization project (raw
 scans → `digitized/<scan_pair>/`), the obverse, reverse, **and aligned** images are
@@ -54,12 +54,11 @@ several tokens of different denominations (e.g. E. G. Crist has four).
 ---
 layout: token
 title: "10¢ Token — J. W. Click & Co., Bridgewater"
-town: Bridgewater
+town: ["Bridgewater"]
 merchant: "J. W. Click & Co."
 denomination: "$0.10"
-style: "OVAL AL."              # material/shape code, from the `style` inventory column
+style: "Oval Aluminum"         # human-readable expansion of the `style` inventory column's shape/material code
 rarity: "5-10 KNOWN"           # from the `rarity` inventory column
-estimated_price: "$200.00"     # from the `estimated price` inventory column
 catalog_reference:             # optional, blank unless a published catalog number exists
 match_tier: exact              # exact | fuzzy-denom | special-merchant-only (from token_inventory_matches.csv)
 image_obverse: tokens/bridgewater-click-010/bridgewater-click-010-obverse.jpg
@@ -90,14 +89,42 @@ Optional free-form markdown body — merchant/town history, provenance notes, et
 - `image_aligned`: `tokens/token-slug/token-slug-aligned.jpg`
 
 ### Other Important Fields
+- `style`: human-readable, not the inventory's raw abbreviation. The inventory's
+  `style` column uses `<shape>. <material>.` codes (e.g. `RD. BR.` = Round Bronze,
+  `OCT. AL.` = Octagon Aluminum, `SCAL. AL.` = Scalloped Aluminum). Run the raw
+  value through `messerly-collection/scripts/expand_style.py`'s `expand_style()`
+  before writing it into front matter — it covers every code seen in
+  `messerly_inventory.csv` as of 2026-08-17 and falls back to the raw code
+  unchanged (rather than guessing) if it hits an unrecognized token, so check for
+  any pass-through values when bulk-generating and extend its `SHAPE`/`MATERIAL`
+  maps as needed.
 - `featured`: `true` to include in the home page showcase grid
-- `town`: used to build the town filter buttons on `/collection/` automatically
-  (`site.tokens | map: "town" | uniq`) — no manual filter-list maintenance needed
+- `town`: **always a YAML list**, even for a single town (e.g. `["Bridgewater"]`,
+  not `Bridgewater`) — this is what lets a token valid in more than one town (see
+  below) show up under each town's filter button without duplicating the entry.
+  Don't include the state (`"Bridgewater"`, not `"Bridgewater, Virginia"`); the
+  templates append ", Virginia" wherever the town is displayed to visitors (detail
+  page header/dl, grid overlays) since the whole collection is Virginia tokens.
+  Filter buttons on `/collection/` are built automatically from every distinct
+  value across all entries' `town` arrays
+  (`site.tokens | map: "town" | join: "|" | split: "|" | uniq`).
+  - **Multi-town tokens**: if the source inventory's `location` names more than one
+    town (e.g. `"Elkton & New Market"`), split it into separate list entries:
+    `town: ["Elkton", "New Market"]`. The token still gets one `_tokens/*.md` entry
+    and one detail page (displayed as "Elkton & New Market, Virginia"), but shows
+    up under both towns' filter buttons on `/collection/`.
+  - Strip any parenthetical annotation from the raw inventory `location` value —
+    `"Athlone (John Reubush)"` → `["Athlone"]`. These annotations are consistently
+    redundant with data already in the `merchant` field, or an internal
+    catalog code, not part of the town name.
+  - `"Rockingham"` (the county name, not a town) in the raw inventory should become
+    `["Rockingham County"]`.
 - `match_tier`: internal provenance/confidence marker carried over from the
   extraction-to-inventory matching pipeline; not currently rendered in the UI, kept
   for future auditing
-- `rarity` / `estimated_price`: straight from the typed inventory; leave blank if
-  unknown rather than guessing
+- `rarity`: straight from the typed inventory; leave blank if unknown rather than
+  guessing. Note: estimated/appraisal value is intentionally NOT part of this
+  schema — it's private data, not for public display.
 
 ## Display Order
 

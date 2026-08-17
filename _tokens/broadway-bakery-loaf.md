@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "One Loaf Token — Broadway Bakery, Broadway"
-town: Broadway
+town: ["Broadway"]
 merchant: "Broadway Bakery"
 denomination: "LOAF"
-style: "RD. AL."
+style: "Round Aluminum"
 rarity: "LESS THAN 5"
-estimated_price: "$300.00"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/broadway-bakery-loaf/broadway-bakery-loaf-obverse.jpg

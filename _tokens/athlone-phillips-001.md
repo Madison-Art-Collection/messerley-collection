@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "1¢ Token — J. R. Phillips & Co., Athlone"
-town: Athlone (John Reubush)
+town: ["Athlone"]
 merchant: "J. R. Phillips & Co."
 denomination: "$0.01"
-style: "RD. BR."
+style: "Round Bronze"
 rarity: "LESS THAN 5"
-estimated_price: "$300.00"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/athlone-phillips-001/athlone-phillips-001-obverse.jpg

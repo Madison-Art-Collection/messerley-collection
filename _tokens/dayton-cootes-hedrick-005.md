@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "5¢ Token — S. L. Cootes / G. W. Hedrick & Co., Dayton"
-town: Dayton
+town: ["Dayton"]
 merchant: "S. L. Cootes / G. W. Hedrick & Co."
 denomination: "$0.05"
-style: "RD. BR."
+style: "Round Bronze"
 rarity: "LESS THAN 5"
-estimated_price: "$100.00"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/dayton-cootes-hedrick-005/dayton-cootes-hedrick-005-obverse.jpg

@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "25¢ Token — J. E. Templeman Co., Keezletown"
-town: Keezletown
+town: ["Keezletown"]
 merchant: "J. E. Templeman Co."
 denomination: "$0.25"
-style: "RD. AL."
+style: "Round Aluminum"
 rarity: "ONLY 1 KNOWN"
-estimated_price: "$300.00"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/keezletown-templeman-025/keezletown-templeman-025-obverse.jpg

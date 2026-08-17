@@ -14,9 +14,9 @@ latest_posts:
   enabled: false
 ---
 ## Introduction and Welcome
-The Messerly Collection is a set of Virginia trade tokens — small coin-like tokens issued by local merchants in exchange for goods and services, kept for decades in binder pages alongside a typed inventory of each token's town, merchant, denomination, and rarity. This site is a digital catalog of that physical collection: a photograph of every token, obverse and reverse, matched to its inventory record.
+The Messerley Collection is a set of (total count) Virginia trade tokens — small coin-like tokens issued by local merchants in exchange for goods and services issued from (beginning year) to (ending year). The collection is house in the [Madison Art Collection](https://www.jmu.edu/madisonart/index.shtml) and is the gracious gift of Tim Messerley.
 
-Below are some featured tokens from the collection. All tokens are available on the [Collection](collection/) page. All images and text in the Collection are copyright the author, unless otherwise indicated.
+Below are some featured tokens from the collection. All tokens are available on the [Collection](collection/) page. All images and text in the Collection are in the public domain and may be shared with attribution. 
 
 <div class="showcase-gallery">
   {% assign featured_tokens = site.tokens | where: "featured", true %}
@@ -46,7 +46,7 @@ Below are some featured tokens from the collection. All tokens are available on 
         {% endif %}
         <div class="showcase-overlay">
           <h3>{{ token.title }}</h3>
-          <p>{{ token.town }} • {{ token.denomination }}</p>
+          <p>{{ token.town | join: " & " }}, Virginia • {{ token.denomination }}</p>
         </div>
       </a>
     </div>

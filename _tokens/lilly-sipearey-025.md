@@ -1,12 +1,11 @@
 ---
 layout: token
 title: "25¢ Token — The Sipe & Arey Co. #87, Lilly"
-town: Lilly
+town: ["Lilly"]
 merchant: "The Sipe & Arey Co. #87"
 denomination: "$0.25"
-style: "RD. BR."
+style: "Round Bronze"
 rarity: "ONLY 1 KNOWN"
-estimated_price: "$660.00"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/lilly-sipearey-025/lilly-sipearey-025-obverse.jpg

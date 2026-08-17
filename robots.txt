@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://madison-art-collection.github.io/messerley-collection/sitemap.xml

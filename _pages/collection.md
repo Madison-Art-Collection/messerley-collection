@@ -18,6 +18,7 @@ nav_order: 2
     <button class="filter-btn" data-filter="{{ town | downcase }}">{{ town }}</button>
   {% endfor %}
 </div>
+<p id="filter-status"></p>
 
 <div class="showcase-gallery">
   {% assign all_tokens = site.tokens %}
@@ -66,26 +67,35 @@ nav_order: 2
 .collection-filters {
   display: flex;
   justify-content: center;
-  gap: 1rem;
-  margin-bottom: 2rem;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
   flex-wrap: wrap;
 }
 
 .filter-btn {
-  padding: 0.5rem 1.5rem;
-  border: 2px solid var(--global-theme-color);
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--global-theme-color);
   background: transparent;
   color: var(--global-theme-color);
   border-radius: 4px;
   cursor: pointer;
   font-weight: 500;
-  transition: all 0.3s ease;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  transition: all 0.2s ease;
 }
 
 .filter-btn:hover,
 .filter-btn.active {
   background: var(--global-theme-color);
   color: white;
+}
+
+#filter-status {
+  text-align: center;
+  color: var(--global-text-color-light);
+  font-size: 0.95rem;
+  margin: 0 0 1.5rem;
 }
 
 .showcase-gallery {
@@ -177,12 +187,19 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Filter by town
   const filterBtns = document.querySelectorAll('.filter-btn');
+  const filterStatus = document.getElementById('filter-status');
 
   function applyFilter(filter) {
+    let shown = 0;
     showcaseItems.forEach(item => {
       const towns = item.dataset.town.split('|');
-      item.style.display = (filter === 'all' || towns.includes(filter)) ? 'flex' : 'none';
+      const match = filter === 'all' || towns.includes(filter);
+      item.style.display = match ? 'flex' : 'none';
+      if (match) shown++;
     });
+    const activeBtn = Array.from(filterBtns).find(b => b.dataset.filter === filter);
+    const label = filter === 'all' ? 'all towns' : activeBtn.textContent;
+    filterStatus.textContent = `Showing ${shown} token${shown === 1 ? '' : 's'} from ${label}`;
   }
 
   function activateFilter(filter) {
@@ -199,9 +216,10 @@ document.addEventListener('DOMContentLoaded', function() {
   // Deep-link support: /collection/?town=harrisonburg pre-selects that filter
   // (used by the Map page's pin links)
   const requestedTown = new URLSearchParams(window.location.search).get('town');
-  if (requestedTown) {
-    const match = Array.from(filterBtns).find(b => b.dataset.filter === requestedTown.toLowerCase());
-    if (match) activateFilter(match.dataset.filter);
+  if (requestedTown && Array.from(filterBtns).some(b => b.dataset.filter === requestedTown.toLowerCase())) {
+    activateFilter(requestedTown.toLowerCase());
+  } else {
+    applyFilter('all');
   }
 });
 </script>

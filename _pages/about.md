@@ -14,7 +14,7 @@ latest_posts:
   enabled: false
 ---
 ## Introduction and Welcome
-The Messerley Collection is a set of 513 Virginia trade tokens — small paper or coin-like tokens issued by local merchants in exchange for goods and services, with dated examples ranging from 1894 to 1964. The collection is housed in the [Madison Art Collection](https://www.jmu.edu/madisonart/index.shtml) and is the gracious gift of Tim Messerley.
+The Messerley Collection is a set of 513 Rockingham County, Virginia trade tokens — small paper or coin-like tokens issued by local merchants in exchange for goods and services, with dated examples ranging from 1894 to 1964. The collection is housed in the [Madison Art Collection](https://www.jmu.edu/madisonart/index.shtml) and is the gracious gift of Tim Messerley.
 
 Below are some featured tokens from the collection. All tokens are available on the [Collection](collection/) or the [Map](map/) pages. All images and text in the Collection are in the public domain and may be shared with attribution. 
 

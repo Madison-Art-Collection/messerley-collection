@@ -14,5 +14,5 @@ image_aligned: tokens/island-ford-c-j-kite-calvin-025/island-ford-c-j-kite-calvi
 obverse_description:
 reverse_description:
 sort_key: "Island Ford|C. J. Kite (Calvin)|$0.25"
-featured: false
+featured: true
 ---

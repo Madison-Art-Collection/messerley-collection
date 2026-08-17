@@ -14,5 +14,5 @@ image_aligned: tokens/singers-glen-swank-and-armentrout-500/singers-glen-swank-a
 obverse_description:
 reverse_description:
 sort_key: "Singers Glen|Swank and Armentrout|$5.00"
-featured: false
+featured: true
 ---

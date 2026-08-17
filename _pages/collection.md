@@ -178,18 +178,30 @@ document.addEventListener('DOMContentLoaded', function() {
   // Filter by town
   const filterBtns = document.querySelectorAll('.filter-btn');
 
+  function applyFilter(filter) {
+    showcaseItems.forEach(item => {
+      const towns = item.dataset.town.split('|');
+      item.style.display = (filter === 'all' || towns.includes(filter)) ? 'flex' : 'none';
+    });
+  }
+
+  function activateFilter(filter) {
+    filterBtns.forEach(b => b.classList.toggle('active', b.dataset.filter === filter));
+    applyFilter(filter);
+  }
+
   filterBtns.forEach(btn => {
     btn.addEventListener('click', function() {
-      filterBtns.forEach(b => b.classList.remove('active'));
-      this.classList.add('active');
-
-      const filter = this.dataset.filter;
-
-      showcaseItems.forEach(item => {
-        const towns = item.dataset.town.split('|');
-        item.style.display = (filter === 'all' || towns.includes(filter)) ? 'flex' : 'none';
-      });
+      activateFilter(this.dataset.filter);
     });
   });
+
+  // Deep-link support: /collection/?town=harrisonburg pre-selects that filter
+  // (used by the Map page's pin links)
+  const requestedTown = new URLSearchParams(window.location.search).get('town');
+  if (requestedTown) {
+    const match = Array.from(filterBtns).find(b => b.dataset.filter === requestedTown.toLowerCase());
+    if (match) activateFilter(match.dataset.filter);
+  }
 });
 </script>

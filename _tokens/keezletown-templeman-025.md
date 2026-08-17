@@ -14,5 +14,5 @@ image_aligned: tokens/keezletown-templeman-025/keezletown-templeman-025-aligned.
 obverse_description:
 reverse_description:
 sort_key: "Keezletown|J. E. Templeman Co.|$0.25"
-featured: false
+featured: true
 ---

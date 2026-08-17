@@ -14,5 +14,5 @@ image_aligned: tokens/harrisonburg-c-a-sprinkel-and-sons-010/harrisonburg-c-a-sp
 obverse_description:
 reverse_description:
 sort_key: "Harrisonburg|C. A. Sprinkel & Sons|$0.10"
-featured: false
+featured: true
 ---

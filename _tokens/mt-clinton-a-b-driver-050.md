@@ -14,5 +14,5 @@ image_aligned: tokens/mt-clinton-a-b-driver-050/mt-clinton-a-b-driver-050-aligne
 obverse_description:
 reverse_description:
 sort_key: "Mt. Clinton|A. B. Driver|$0.50"
-featured: false
+featured: true
 ---

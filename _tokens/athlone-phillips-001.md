@@ -14,5 +14,5 @@ image_aligned: tokens/athlone-phillips-001/athlone-phillips-001-aligned.jpg
 obverse_description:
 reverse_description:
 sort_key: "Athlone|J. R. Phillips & Co.|$0.01"
-featured: true
+featured: false
 ---

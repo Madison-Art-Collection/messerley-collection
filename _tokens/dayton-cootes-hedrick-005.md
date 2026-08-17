@@ -14,5 +14,5 @@ image_aligned: tokens/dayton-cootes-hedrick-005/dayton-cootes-hedrick-005-aligne
 obverse_description:
 reverse_description:
 sort_key: "Dayton|S. L. Cootes / G. W. Hedrick & Co.|$0.05"
-featured: true
+featured: false
 ---

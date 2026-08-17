@@ -14,5 +14,5 @@ image_aligned: tokens/bridgewater-click-001/bridgewater-click-001-aligned.jpg
 obverse_description:
 reverse_description:
 sort_key: "Bridgewater|J. W. Click & Co.|$0.01"
-featured: true
+featured: false
 ---

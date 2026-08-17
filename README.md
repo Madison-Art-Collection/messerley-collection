@@ -2,8 +2,10 @@
 
 A Jekyll (al-folio-based) showcase site for the **Messerley Collection** — a set of
 Virginia trade tokens digitized from a physical binder collection. Home page shows
-featured tokens; `/collection/` is the full, filterable gallery; each token has its
-own detail page with obverse/reverse images and metadata.
+10 featured tokens (currently the rarest — "ONLY 1 KNOWN" — tier); `/collection/`
+is the full, filterable gallery (498 tokens, filter by town); `/map/` plots a pin
+per confirmed Rockingham County town/city, linking into the filtered Collection
+view; each token has its own detail page with obverse/reverse images and metadata.
 
 This site's theme/layout code was ported from the `fall-of-the-republic` Roman-coin
 collection site (a sibling project using the same al-folio pattern), with the
@@ -23,9 +25,10 @@ Relevant source data for populating `_tokens/*.md` entries:
 - `../digitized/<scan_pair>/gallery/` and `.../aligned/` — per-token cropped and
   composited images, ready to copy in (no alignment step needed)
 
-Currently this site has a hand-picked sample of 12 tokens to validate the
-design and schema mapping. Bulk-generating entries for all ~498 matched tokens is a
-follow-up step, not yet done.
+All 498 matched tokens are populated. 5 town names (23 tokens) couldn't be
+confirmed as real Rockingham County places and are deliberately left off the
+`/map/` page's pins rather than guessed at — see `../UNKNOWN_PLACES.md` for detail
+and how to resolve them.
 
 ## Local development
 
@@ -41,6 +44,15 @@ etc. are picked up live (the repo is bind-mounted into the container).
 
 ## Deployment
 
-`_config.yml`'s `url`/`baseurl` are currently blank placeholders — set them once a
-hosting destination (e.g. a GitHub Pages repo) is chosen. `.github/workflows/deploy.yml`
-(ported from `fall-of-the-republic`) builds and deploys via GitHub Pages on push.
+Live at **https://madison-art-collection.github.io/messerley-collection/**. This
+`website/` directory is its own git repo (separate from the rest of
+`messerly-collection/`, which has no git repo — only the website is on GitHub) with
+`origin` set to `https://github.com/Madison-Art-Collection/messerley-collection.git`.
+Push to `main` and `.github/workflows/deploy.yml` builds and pushes the built site to
+the `gh-pages` branch, which GitHub Pages serves from automatically.
+
+`_config.yml`'s `url`/`baseurl` are set for GitHub Pages *project-site* hosting
+(`/messerley-collection` subpath, not a custom domain) — every internal link/asset
+path must go through Jekyll's `relative_url` filter or `{{ site.baseurl }}` or it
+will 404 in production while looking fine in local dev if you're not paying
+attention (this has bitten us once already — see git history on `_pages/map.md`).

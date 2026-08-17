@@ -119,6 +119,15 @@ Optional free-form markdown body — merchant/town history, provenance notes, et
     catalog code, not part of the town name.
   - `"Rockingham"` (the county name, not a town) in the raw inventory should become
     `["Rockingham County"]`.
+  - **A new town won't show up on `/map/` automatically.** The Collection page's
+    filter buttons are generated from every `town` value present, but the Map
+    page's pins are a hand-maintained, pre-verified list in `_pages/map.md`'s
+    embedded GeoJSON — adding a token with a town not already in that list just
+    means it's filterable but unmapped, which is correct behavior for an
+    unconfirmed place (see `../UNKNOWN_PLACES.md`). Only add a new pin once
+    you've confirmed the town is real against an actual gazetteer (Wikipedia's
+    Rockingham County communities list, or hometownlocator.com — see that file
+    for the method), not by trusting a geocoder's best-guess match.
 - `match_tier`: internal provenance/confidence marker carried over from the
   extraction-to-inventory matching pipeline; not currently rendered in the UI, kept
   for future auditing

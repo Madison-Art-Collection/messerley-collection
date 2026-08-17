@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/messerley-collection/collection/";
           },
+        },{id: "nav-map",
+          title: "Map",
+          description: "Explore the Messerley Collection by town",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/messerley-collection/map/";
+          },
         },{id: "tokens-1-token-j-r-phillips-amp-co-athlone",
           title: '1¢ Token — J. R. Phillips &amp;amp; Co., Athlone',
           description: "",

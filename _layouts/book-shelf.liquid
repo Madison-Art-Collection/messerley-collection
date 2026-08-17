@@ -1,0 +1,153 @@
+---
+layout: page
+---
+{{ content }}
+
+<div class="bookshelf-gallery">
+  {% if page.collection and page.collection.size > 0 %}
+    {% assign collection = site[page.collection] | sort: 'author' %}
+    {% if collection and collection.size > 0 %}
+      {% for item in collection %}
+        <div class="book-card">
+          <div class="book-cover">
+            {% if item.cover %}
+              {% include figure.liquid path=item.cover alt=item.title loading="lazy" %}
+            {% elsif item.olid %}
+              <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ item.olid }}-L.jpg?default=false" loading="lazy">
+            {% elsif item.isbn %}
+              <img alt="{{ item.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-L.jpg?default=false" loading="lazy">
+            {% endif %}
+            {% if item.status %}
+              <span class="book-status {{ item.status }}">{{ item.status }}</span>
+            {% endif %}
+          </div>
+          <div class="book-info">
+            <h3>{{ item.title }}</h3>
+            <p class="book-author">{{ item.author }}</p>
+            {% if item.rating %}
+              <p class="book-rating">
+                {% for i in (1..item.rating) %}★{% endfor %}{% for i in (item.rating..4) %}☆{% endfor %}
+              </p>
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
+  {% endif %}
+</div>
+
+<style>
+.bookshelf-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.book-card {
+  position: relative;
+}
+
+.book-cover {
+  position: relative;
+  background: #f5f5f5;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  aspect-ratio: 2 / 3;
+  margin-bottom: 1rem;
+}
+
+.book-cover figure {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.book-cover picture {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.book-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.book-status {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: white;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+}
+
+.book-status.finished {
+  background: #28a745;
+}
+
+.book-status.reading {
+  background: #007bff;
+}
+
+.book-status.queued {
+  background: #6c757d;
+}
+
+.book-status.abandoned {
+  background: #dc3545;
+}
+
+.book-status.paused {
+  background: #ffc107;
+  color: #000;
+}
+
+.book-status.interested {
+  background: #17a2b8;
+}
+
+.book-status.reread {
+  background: #6f42c1;
+}
+
+.book-status.uncategorized {
+  background: #adb5bd;
+}
+
+.book-info h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--global-text-color);
+  line-height: 1.3;
+}
+
+.book-author {
+  margin: 0 0 0.5rem;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+.book-rating {
+  margin: 0;
+  color: #ffc107;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .bookshelf-gallery {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1.5rem;
+  }
+}
+</style>

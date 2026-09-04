@@ -14,5 +14,5 @@ image_aligned: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-100/cross-keys-
 obverse_description:
 reverse_description:
 sort_key: "Cross Keys & Penn Laird|Thos. P. Yager Inc.|$1.00"
-featured: true
+featured: false
 ---

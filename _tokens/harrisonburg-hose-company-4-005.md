@@ -14,5 +14,5 @@ image_aligned: tokens/harrisonburg-hose-company-4-005/harrisonburg-hose-company-
 obverse_description:
 reverse_description:
 sort_key: "Harrisonburg|Hose Company 4|$0.05"
-featured: false
+featured: true
 ---

@@ -14,5 +14,5 @@ image_aligned: tokens/mcgaheysville-w-r-hoffman-010/mcgaheysville-w-r-hoffman-01
 obverse_description:
 reverse_description:
 sort_key: "McGaheysville|W. R. Hoffman|$0.10"
-featured: true
+featured: false
 ---

@@ -14,5 +14,5 @@ image_aligned: tokens/harrisonburg-green-state-teachers-college-001/harrisonburg
 obverse_description:
 reverse_description:
 sort_key: "Harrisonburg|State Teachers College|$0.01"
-featured: false
+featured: true
 ---

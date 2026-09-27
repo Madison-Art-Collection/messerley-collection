@@ -7,7 +7,7 @@ denomination: "$0.10"
 style: "Round Aluminum"
 rarity: "5-10 KNOWN"
 catalog_reference:
-match_tier: exact
+match_tier: manual
 image_obverse: tokens/port-republic-m-j-meyerhoeffer-010/port-republic-m-j-meyerhoeffer-010-obverse.jpg
 image_reverse: tokens/port-republic-m-j-meyerhoeffer-010/port-republic-m-j-meyerhoeffer-010-reverse.jpg
 image_aligned: tokens/port-republic-m-j-meyerhoeffer-010/port-republic-m-j-meyerhoeffer-010-aligned.jpg

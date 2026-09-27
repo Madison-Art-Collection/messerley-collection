@@ -7,7 +7,7 @@ denomination: "SHKL"
 style: "Scalloped Copper"
 rarity: "50-100 KNOWN"
 catalog_reference:
-match_tier: special-merchant-only
+match_tier: manual
 image_obverse: tokens/harrisonburg-masons-rockingham-chapter-shkl/harrisonburg-masons-rockingham-chapter-shkl-obverse.jpg
 image_reverse: tokens/harrisonburg-masons-rockingham-chapter-shkl/harrisonburg-masons-rockingham-chapter-shkl-reverse.jpg
 image_aligned: tokens/harrisonburg-masons-rockingham-chapter-shkl/harrisonburg-masons-rockingham-chapter-shkl-aligned.jpg

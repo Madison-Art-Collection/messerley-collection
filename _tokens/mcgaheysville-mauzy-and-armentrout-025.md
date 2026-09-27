@@ -4,10 +4,10 @@ title: "25¢ Token — Mauzy & Armentrout, McGaheysville"
 town: ["McGaheysville"]
 merchant: "Mauzy & Armentrout"
 denomination: "$0.25"
-style: "Round Bronze (10 Cts)"
+style: "Octagon Bronze (25c)"
 rarity: "10-25 KNOWN"
 catalog_reference:
-match_tier: exact
+match_tier: manual
 image_obverse: tokens/mcgaheysville-mauzy-and-armentrout-025/mcgaheysville-mauzy-and-armentrout-025-obverse.jpg
 image_reverse: tokens/mcgaheysville-mauzy-and-armentrout-025/mcgaheysville-mauzy-and-armentrout-025-reverse.jpg
 image_aligned: tokens/mcgaheysville-mauzy-and-armentrout-025/mcgaheysville-mauzy-and-armentrout-025-aligned.jpg

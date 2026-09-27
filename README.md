@@ -3,7 +3,7 @@
 A Jekyll (al-folio-based) showcase site for the **Messerley Collection** — a set of
 Virginia trade tokens digitized from a physical binder collection. Home page shows
 10 featured tokens (currently the rarest — "ONLY 1 KNOWN" — tier); `/collection/`
-is the full, filterable gallery (498 tokens, filter by town); `/map/` plots a pin
+is the full, filterable gallery (530 items: 516 coin tokens + 14 paper tokens, filter by town); `/map/` plots a pin
 per confirmed Rockingham County town/city, linking into the filtered Collection
 view; each token has its own detail page with obverse/reverse images and metadata.
 
@@ -20,12 +20,12 @@ work — raw scans, per-token image extraction, and inventory matching — lives
 level up in `messerly-collection/` (see its own `README.md` and `PROGRESS.md`).
 Relevant source data for populating `_tokens/*.md` entries:
 
-- `../token_inventory_matches.csv` — 498 tokens matched to inventory records
+- `../master_catalog.csv` — all 530 photographed items matched to inventory records (516 coin + 14 paper)
 - `../messerly_inventory.csv` — the typed inventory (rarity, estimated price, etc.)
 - `../digitized/<scan_pair>/gallery/` and `.../aligned/` — per-token cropped and
   composited images, ready to copy in (no alignment step needed)
 
-All 498 matched tokens are populated. 5 town names (23 tokens) couldn't be
+All 530 matched items are populated (updated 2026-09-27 after the unmatched-row reconciliation; see the parent README). 5 town names (23 tokens) couldn't be
 confirmed as real Rockingham County places and are deliberately left off the
 `/map/` page's pins rather than guessed at — see `../UNKNOWN_PLACES.md` for detail
 and how to resolve them.

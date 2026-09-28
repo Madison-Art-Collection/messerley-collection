@@ -1024,10 +1024,10 @@ ninja.data = [{
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-i-c-oates-050/";
             },},{id: "tokens-5-token-i-b-p-o-e-of-w-harrisonburg",
-          title: '$5 Token — I.B.P.O.E. Of W., Harrisonburg',
+          title: '5¢ Token — I.B.P.O.E. Of W., Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/harrisonburg-i-b-p-o-e-of-w-500/";
+              window.location.href = "/messerley-collection/tokens/harrisonburg-i-b-p-o-e-of-w-005/";
             },},{id: "tokens-0-token-j-c-neff-harrisonburg",
           title: '0¢ Token — J. C. Neff, Harrisonburg',
           description: "",
@@ -1618,6 +1618,11 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/mcgaheysville-mauzy-and-armentrout-005/";
+            },},{id: "tokens-10-token-mauzy-amp-armentrout-mcgaheysville",
+          title: '10¢ Token — Mauzy &amp;amp; Armentrout, McGaheysville',
+          description: "",
+          section: "Tokens",handler: () => {
+              window.location.href = "/messerley-collection/tokens/mcgaheysville-mauzy-and-armentrout-010/";
             },},{id: "tokens-25-token-mauzy-amp-armentrout-mcgaheysville",
           title: '25¢ Token — Mauzy &amp;amp; Armentrout, McGaheysville',
           description: "",
@@ -1628,11 +1633,6 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/mcgaheysville-mauzy-and-armentrout-025-3/";
-            },},{id: "tokens-25-token-mauzy-amp-armentrout-mcgaheysville",
-          title: '25¢ Token — Mauzy &amp;amp; Armentrout, McGaheysville',
-          description: "",
-          section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/mcgaheysville-mauzy-and-armentrout-025-4/";
             },},{id: "tokens-25-token-mauzy-amp-armentrout-mcgaheysville",
           title: '25¢ Token — Mauzy &amp;amp; Armentrout, McGaheysville',
           description: "",
@@ -1668,16 +1668,16 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/mcgaheysville-mauzy-and-armentrout-200/";
-            },},{id: "tokens-1-token-n-wilson-davis-mcgaheysville",
-          title: '1¢ Token — N. Wilson Davis, McGaheysville',
-          description: "",
-          section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/mcgaheysville-n-wilson-davis-001/";
             },},{id: "tokens-5-token-n-wilson-davis-mcgaheysville",
           title: '5¢ Token — N. Wilson Davis, McGaheysville',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/mcgaheysville-n-wilson-davis-005/";
+            },},{id: "tokens-10-token-n-wilson-davis-mcgaheysville",
+          title: '10¢ Token — N. Wilson Davis, McGaheysville',
+          description: "",
+          section: "Tokens",handler: () => {
+              window.location.href = "/messerley-collection/tokens/mcgaheysville-n-wilson-davis-010/";
             },},{id: "tokens-5-token-w-a-herron-mcgaheysville",
           title: '5¢ Token — W. A. Herron, McGaheysville',
           description: "",

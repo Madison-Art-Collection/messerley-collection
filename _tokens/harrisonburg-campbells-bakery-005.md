@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Campbell's Bakery"
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-campbells-bakery-005/harrisonburg-campbells-bakery-005-obverse.jpg

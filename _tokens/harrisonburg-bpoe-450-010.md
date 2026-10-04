@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "B.P.O.E. #450"
 denomination: "$0.10"
 style: "Round Aluminum"
-rarity: "100 UP"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-bpoe-450-010/harrisonburg-bpoe-450-010-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Broadway"]
 merchant: "Town of Broadway Tax Slip"
 denomination: "$6.00"
 style: "Rectangular Paper"
-rarity: "ROCKINGHAM"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/broadway-town-of-broadway-tax-slip-600/broadway-town-of-broadway-tax-slip-600-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "E. G. Crist"
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-e-g-crist-005/bridgewater-e-g-crist-005-obverse.jpg

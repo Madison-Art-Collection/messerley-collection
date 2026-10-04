@@ -5,7 +5,6 @@ town: ["Montevideo"]
 merchant: "H. A. Souers"
 denomination: "$0.05"
 style: "Octagon Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/montevideo-h-a-souers-005/montevideo-h-a-souers-005-obverse.jpg

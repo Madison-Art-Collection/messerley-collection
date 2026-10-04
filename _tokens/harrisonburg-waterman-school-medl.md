@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Waterman School"
 denomination: "Medal"
 style: "Round Copper"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-waterman-school-medl/harrisonburg-waterman-school-medl-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Port Republic"]
 merchant: "Jno. F. Miller"
 denomination: "$0.02"
 style: "Octagon Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/port-republic-jno-f-miller-002/port-republic-jno-f-miller-002-obverse.jpg

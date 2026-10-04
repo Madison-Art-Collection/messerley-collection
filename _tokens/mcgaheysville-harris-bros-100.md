@@ -5,7 +5,6 @@ town: ["McGaheysville"]
 merchant: "Harris Bros."
 denomination: "$1.00"
 style: "Round Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mcgaheysville-harris-bros-100/mcgaheysville-harris-bros-100-obverse.jpg

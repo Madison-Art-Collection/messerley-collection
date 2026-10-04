@@ -5,7 +5,6 @@ town: ["Keezletown"]
 merchant: "M. E. Partlow"
 denomination: "$0.01"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/keezletown-m-e-partlow-001/keezletown-m-e-partlow-001-obverse.jpg

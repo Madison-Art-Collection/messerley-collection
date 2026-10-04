@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "C. B. Rhodes"
 denomination: "$1.00"
 style: "Round Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-c-b-rhodes-100/harrisonburg-c-b-rhodes-100-obverse.jpg

@@ -5,7 +5,6 @@ town: ["McGaheysville"]
 merchant: "W. A. Herron"
 denomination: "$0.50"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mcgaheysville-w-a-herron-050/mcgaheysville-w-a-herron-050-obverse.jpg

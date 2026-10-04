@@ -5,7 +5,6 @@ town: ["Cross Keys", "Penn Laird"]
 merchant: "Thos. P. Yager Inc."
 denomination: "$0.25"
 style: "Round Nickel"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-025/cross-keys-and-penn-laird-thos-p-yager-inc-025-obverse.jpg

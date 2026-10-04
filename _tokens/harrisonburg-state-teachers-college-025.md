@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "State Teachers College"
 denomination: "$0.25"
 style: "Round Cardboard"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-state-teachers-college-025/harrisonburg-state-teachers-college-025-obverse.jpg

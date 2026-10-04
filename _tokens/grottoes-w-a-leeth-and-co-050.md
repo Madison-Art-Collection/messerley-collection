@@ -5,7 +5,6 @@ town: ["Grottoes"]
 merchant: "W. A. Leeth & Co."
 denomination: "$0.50"
 style: "Round Aluminum"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/grottoes-w-a-leeth-and-co-050/grottoes-w-a-leeth-and-co-050-obverse.jpg

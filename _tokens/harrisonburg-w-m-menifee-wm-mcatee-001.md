@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "W. M. Menifee (Wm. McAtee)"
 denomination: "$0.01"
 style: "Scalloped Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-w-m-menifee-wm-mcatee-001/harrisonburg-w-m-menifee-wm-mcatee-001-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Boyd's Hairdressers"
 denomination: "$0.25"
 style: "Round Aluminum"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-boyds-hairdressers-025/harrisonburg-boyds-hairdressers-025-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Broadway"]
 merchant: "Jim's Taxi (896-7982)"
 denomination: "$0.10"
 style: "Round Plastic"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/broadway-jims-taxi-896-7982-010/broadway-jims-taxi-896-7982-010-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Pleasant Valley"]
 merchant: "E. W. Carpenter"
 denomination: "$0.01"
 style: "Round Nickel"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/pleasant-valley-e-w-carpenter-001/pleasant-valley-e-w-carpenter-001-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Mt. Crawford"]
 merchant: "A. S. Houff"
 denomination: "$1.00"
 style: "Round Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mt-crawford-a-s-houff-100/mt-crawford-a-s-houff-100-obverse.jpg

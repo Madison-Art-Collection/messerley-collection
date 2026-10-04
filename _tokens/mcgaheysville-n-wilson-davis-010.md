@@ -5,7 +5,6 @@ town: ["McGaheysville"]
 merchant: "N. Wilson Davis"
 denomination: "$0.10"
 style: "Square Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/mcgaheysville-n-wilson-davis-010/mcgaheysville-n-wilson-davis-010-obverse.jpg

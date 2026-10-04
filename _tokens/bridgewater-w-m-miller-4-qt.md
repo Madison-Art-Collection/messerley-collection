@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "W. M. Miller"
 denomination: "4 QT"
 style: "Square Bronze"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-w-m-miller-4-qt/bridgewater-w-m-miller-4-qt-obverse.jpg

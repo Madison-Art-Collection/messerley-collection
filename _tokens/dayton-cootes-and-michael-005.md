@@ -5,7 +5,6 @@ town: ["Dayton"]
 merchant: "Cootes & Michael"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/dayton-cootes-and-michael-005/dayton-cootes-and-michael-005-obverse.jpg

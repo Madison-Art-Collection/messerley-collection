@@ -5,7 +5,6 @@ town: ["Port Republic"]
 merchant: "M. J. Meyerhoeffer"
 denomination: "$1.00"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/port-republic-m-j-meyerhoeffer-100/port-republic-m-j-meyerhoeffer-100-obverse.jpg

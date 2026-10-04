@@ -5,7 +5,6 @@ town: ["McGaheysville"]
 merchant: "D. Osburn Jr."
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mcgaheysville-d-osburn-jr-005/mcgaheysville-d-osburn-jr-005-obverse.jpg

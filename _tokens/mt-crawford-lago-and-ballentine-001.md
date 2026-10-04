@@ -5,7 +5,6 @@ town: ["Mt. Crawford"]
 merchant: "Lago and Ballentine"
 denomination: "$0.01"
 style: "Octagon Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/mt-crawford-lago-and-ballentine-001/mt-crawford-lago-and-ballentine-001-obverse.jpg

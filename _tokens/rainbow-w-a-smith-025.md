@@ -5,7 +5,6 @@ town: ["Rainbow"]
 merchant: "W. A. Smith"
 denomination: "$0.25"
 style: "Scalloped Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/rainbow-w-a-smith-025/rainbow-w-a-smith-025-obverse.jpg

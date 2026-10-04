@@ -5,7 +5,6 @@ town: ["Broadway"]
 merchant: "E. J. Shaffer"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/broadway-e-j-shaffer-005/broadway-e-j-shaffer-005-obverse.jpg

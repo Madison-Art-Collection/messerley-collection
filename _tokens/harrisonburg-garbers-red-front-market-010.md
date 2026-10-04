@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Garber's Red Front Market"
 denomination: "$0.10"
 style: "Rectangular Paper"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-garbers-red-front-market-010/harrisonburg-garbers-red-front-market-010-obverse.jpg

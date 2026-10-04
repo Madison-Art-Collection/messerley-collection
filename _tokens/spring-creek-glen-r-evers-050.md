@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "Glen R. Evers"
 denomination: "$0.50"
 style: "Rectangular Cardboard"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-glen-r-evers-050/spring-creek-glen-r-evers-050-obverse.jpg

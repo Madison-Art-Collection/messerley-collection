@@ -5,7 +5,6 @@ town: ["Island Ford"]
 merchant: "C. J. Kite (Calvin)"
 denomination: "$0.25"
 style: "Round Aluminum"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/island-ford-c-j-kite-calvin-025/island-ford-c-j-kite-calvin-025-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Elkton"]
 merchant: "Hensley Sales and Service"
 denomination: "$0.01"
 style: "Lucky Piece"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/elkton-hensley-encased-cent/elkton-hensley-encased-cent-obverse.jpg

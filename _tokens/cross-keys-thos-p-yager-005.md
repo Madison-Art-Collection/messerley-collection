@@ -5,7 +5,6 @@ town: ["Cross Keys"]
 merchant: "Thos. P. Yager"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/cross-keys-thos-p-yager-005/cross-keys-thos-p-yager-005-obverse.jpg

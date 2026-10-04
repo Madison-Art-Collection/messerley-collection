@@ -5,7 +5,6 @@ town: ["Furnace"]
 merchant: "Eppard's Bargain Store"
 denomination: "$0.01"
 style: "Round Copper"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/furnace-eppards-bargain-store-001/furnace-eppards-bargain-store-001-obverse.jpg

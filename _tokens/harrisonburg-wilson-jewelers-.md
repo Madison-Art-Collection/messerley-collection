@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Wilson Jewelers"
 denomination: "$10.00"
 style: "Round Bronze"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-wilson-jewelers-/harrisonburg-wilson-jewelers--obverse.jpg

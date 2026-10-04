@@ -5,7 +5,6 @@ town: ["Rushville"]
 merchant: "J. T. Rice & Co."
 denomination: "$0.50"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/rushville-j-t-rice-and-co-050/rushville-j-t-rice-and-co-050-obverse.jpg

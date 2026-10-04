@@ -5,7 +5,6 @@ town: ["Grottoes"]
 merchant: "Davis & McClung"
 denomination: "$0.10"
 style: "Scalloped Bronze"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/grottoes-davis-and-mcclung-010/grottoes-davis-and-mcclung-010-obverse.jpg

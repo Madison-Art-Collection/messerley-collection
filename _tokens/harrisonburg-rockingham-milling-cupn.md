@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Rockingham Milling Company"
 denomination: "Coupon"
 style: "Rectangular Cardboard"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-rockingham-milling-cupn/harrisonburg-rockingham-milling-cupn-obverse.jpg

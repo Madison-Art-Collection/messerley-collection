@@ -5,7 +5,6 @@ town: ["Cross Keys"]
 merchant: "G. W. Tyler"
 denomination: "$0.01"
 style: "Octagon Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/cross-keys-g-w-tyler-001/cross-keys-g-w-tyler-001-obverse.jpg

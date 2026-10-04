@@ -5,7 +5,6 @@ town: ["Hupp"]
 merchant: "Baltimore Cash Store"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/hupp-baltimore-cash-store-005/hupp-baltimore-cash-store-005-obverse.jpg

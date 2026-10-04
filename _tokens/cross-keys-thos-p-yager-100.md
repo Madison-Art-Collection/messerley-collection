@@ -5,7 +5,6 @@ town: ["Cross Keys"]
 merchant: "Thos. P. Yager"
 denomination: "$1.00"
 style: "Round Fiber"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/cross-keys-thos-p-yager-100/cross-keys-thos-p-yager-100-obverse.jpg

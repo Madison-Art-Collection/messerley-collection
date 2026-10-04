@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Friddle's"
 denomination: "$0.05"
 style: "Scalloped Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/harrisonburg-friddles-005/harrisonburg-friddles-005-obverse.jpg

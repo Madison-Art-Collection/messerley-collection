@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "L. C. Sanger"
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-l-c-sanger-005/bridgewater-l-c-sanger-005-obverse.jpg

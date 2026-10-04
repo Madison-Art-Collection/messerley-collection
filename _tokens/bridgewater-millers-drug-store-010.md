@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "Miller's Drug Store"
 denomination: "$0.10"
 style: "Rectangular Paper"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-millers-drug-store-010/bridgewater-millers-drug-store-010-obverse.jpg

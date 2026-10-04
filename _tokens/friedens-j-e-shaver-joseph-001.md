@@ -5,7 +5,6 @@ town: ["Friedens"]
 merchant: "J. E. Shaver (Joseph)"
 denomination: "$0.01"
 style: "Octagon Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/friedens-j-e-shaver-joseph-001/friedens-j-e-shaver-joseph-001-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Swift Run"]
 merchant: "Kate Crider"
 denomination: "$0.01"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/swift-run-kate-crider-001/swift-run-kate-crider-001-obverse.jpg

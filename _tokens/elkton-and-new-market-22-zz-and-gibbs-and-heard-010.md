@@ -5,7 +5,6 @@ town: ["Elkton", "New Market"]
 merchant: "22-ZZ / Gibbs & Heard"
 denomination: "$0.10"
 style: "Round Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/elkton-and-new-market-22-zz-and-gibbs-and-heard-010/elkton-and-new-market-22-zz-and-gibbs-and-heard-010-obverse.jpg

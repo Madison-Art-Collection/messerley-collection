@@ -5,7 +5,6 @@ town: ["Broadway"]
 merchant: "D. O. Hulvey"
 denomination: "SODA"
 style: "Round Aluminum"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/broadway-hulvey-cigarsoda/broadway-hulvey-cigarsoda-obverse.jpg

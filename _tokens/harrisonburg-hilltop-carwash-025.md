@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Hilltop Carwash"
 denomination: "$0.25"
 style: "Round Bronze"
-rarity: ""
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/harrisonburg-hilltop-carwash-025/harrisonburg-hilltop-carwash-025-obverse.jpg

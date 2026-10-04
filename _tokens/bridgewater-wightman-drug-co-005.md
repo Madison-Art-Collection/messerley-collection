@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "Wightman Drug Co."
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-wightman-drug-co-005/bridgewater-wightman-drug-co-005-obverse.jpg

@@ -66,7 +66,6 @@ town: ["Bridgewater"]
 merchant: "J. W. Click & Co."
 denomination: "$0.10"
 style: "Oval Aluminum"         # human-readable expansion of the `style` inventory column's shape/material code
-rarity: "5-10 KNOWN"           # from the `rarity` inventory column
 catalog_reference:             # optional, blank unless a published catalog number exists
 match_tier: exact              # exact | fuzzy-denom | special-merchant-only (from token_inventory_matches.csv)
 image_obverse: tokens/bridgewater-click-010/bridgewater-click-010-obverse.jpg
@@ -139,9 +138,8 @@ Optional free-form markdown body — merchant/town history, provenance notes, et
 - `match_tier`: internal provenance/confidence marker carried over from the
   extraction-to-inventory matching pipeline; not currently rendered in the UI, kept
   for future auditing
-- `rarity`: straight from the typed inventory; leave blank if unknown rather than
-  guessing. Note: estimated/appraisal value is intentionally NOT part of this
-  schema — it's private data, not for public display.
+- Rarity is intentionally NOT part of this schema (removed 2026-10-04), and neither is
+  estimated/appraisal value — it's private data, not for public display.
 
 ## Display Order
 

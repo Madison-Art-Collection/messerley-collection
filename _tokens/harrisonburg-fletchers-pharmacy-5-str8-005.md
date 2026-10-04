@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Fletcher's Pharmacy 5 STR8"
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-fletchers-pharmacy-5-str8-005/harrisonburg-fletchers-pharmacy-5-str8-005-obverse.jpg

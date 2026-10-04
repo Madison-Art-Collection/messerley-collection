@@ -5,7 +5,6 @@ town: ["Meyerhoeffers Store"]
 merchant: "F. W. Meyerhoeffer"
 denomination: "$0.01"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/meyerhoeffers-store-f-w-meyerhoeffer-001/meyerhoeffers-store-f-w-meyerhoeffer-001-obverse.jpg

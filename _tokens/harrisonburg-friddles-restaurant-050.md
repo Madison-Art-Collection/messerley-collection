@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Friddle's Restaurant"
 denomination: "$0.50"
 style: "Odd-shaped Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-friddles-restaurant-050/harrisonburg-friddles-restaurant-050-obverse.jpg

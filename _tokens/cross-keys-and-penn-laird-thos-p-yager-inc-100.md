@@ -5,7 +5,6 @@ town: ["Cross Keys", "Penn Laird"]
 merchant: "Thos. P. Yager Inc."
 denomination: "$1.00"
 style: "Round Fiber"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-100/cross-keys-and-penn-laird-thos-p-yager-inc-100-obverse.jpg

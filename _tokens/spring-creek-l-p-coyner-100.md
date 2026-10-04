@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "L. P. Coyner"
 denomination: "$1.00"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-l-p-coyner-100/spring-creek-l-p-coyner-100-obverse.jpg

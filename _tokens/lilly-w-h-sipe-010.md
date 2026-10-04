@@ -5,7 +5,6 @@ town: ["Lilly"]
 merchant: "W. H. Sipe"
 denomination: "$0.10"
 style: "Round Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/lilly-w-h-sipe-010/lilly-w-h-sipe-010-obverse.jpg

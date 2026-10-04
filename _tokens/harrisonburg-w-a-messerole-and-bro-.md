@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "W. A. Meserole & Bro."
 denomination:
 style: "Rectangular Cardboard"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-w-a-messerole-and-bro-/harrisonburg-w-a-messerole-and-bro--obverse.jpg

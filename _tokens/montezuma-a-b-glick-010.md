@@ -5,7 +5,6 @@ town: ["Montezuma"]
 merchant: "A. B. Glick"
 denomination: "$0.10"
 style: "Scalloped Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/montezuma-a-b-glick-010/montezuma-a-b-glick-010-obverse.jpg

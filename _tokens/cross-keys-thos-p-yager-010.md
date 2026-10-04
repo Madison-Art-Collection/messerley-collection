@@ -5,7 +5,6 @@ town: ["Cross Keys"]
 merchant: "Thos. P. Yager"
 denomination: "$0.10"
 style: "Round Nickel"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/cross-keys-thos-p-yager-010/cross-keys-thos-p-yager-010-obverse.jpg

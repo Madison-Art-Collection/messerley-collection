@@ -5,7 +5,6 @@ town: ["Dayton"]
 merchant: "Dayton Bakery"
 denomination: "$0.05"
 style: "Scalloped Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/dayton-dayton-bakery-005/dayton-dayton-bakery-005-obverse.jpg

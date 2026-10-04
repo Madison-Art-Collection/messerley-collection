@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "At Lowner's Of Course"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-at-lowners-of-course-005/harrisonburg-at-lowners-of-course-005-obverse.jpg

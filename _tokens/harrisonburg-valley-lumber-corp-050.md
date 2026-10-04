@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Valley Lumber Corp."
 denomination: "$0.50"
 style: "Round Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-valley-lumber-corp-050/harrisonburg-valley-lumber-corp-050-obverse.jpg

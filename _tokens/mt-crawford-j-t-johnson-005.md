@@ -5,7 +5,6 @@ town: ["Mt. Crawford"]
 merchant: "J. T. Johnson"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mt-crawford-j-t-johnson-005/mt-crawford-j-t-johnson-005-obverse.jpg

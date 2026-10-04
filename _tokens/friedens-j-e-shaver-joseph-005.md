@@ -5,7 +5,6 @@ town: ["Friedens"]
 merchant: "J. E. Shaver (Joseph)"
 denomination: "$0.05"
 style: "Scalloped Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/friedens-j-e-shaver-joseph-005/friedens-j-e-shaver-joseph-005-obverse.jpg

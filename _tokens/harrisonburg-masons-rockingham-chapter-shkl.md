@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Rockingham Royal Arch Chapter #6"
 denomination: "Medallion"
 style: "Scalloped Copper"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/harrisonburg-masons-rockingham-chapter-shkl/harrisonburg-masons-rockingham-chapter-shkl-obverse.jpg

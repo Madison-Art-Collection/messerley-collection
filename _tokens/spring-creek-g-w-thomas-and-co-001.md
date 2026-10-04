@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "G. W. Thomas & Co."
 denomination: "$0.01"
 style: "Octagon Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-g-w-thomas-and-co-001/spring-creek-g-w-thomas-and-co-001-obverse.jpg

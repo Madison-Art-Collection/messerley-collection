@@ -5,7 +5,6 @@ town: ["Lilly"]
 merchant: "W. H. Sipe"
 denomination: "$0.20"
 style: "Rectangular Nickel"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/lilly-w-h-sipe-020/lilly-w-h-sipe-020-obverse.jpg

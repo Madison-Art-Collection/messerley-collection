@@ -5,7 +5,6 @@ town: ["Goods Mill"]
 merchant: "M. J. Meyerhoeffer Jr."
 denomination: "$0.10"
 style: "Round Nickel"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/goods-mill-m-j-meyerhoeffer-jr-010/goods-mill-m-j-meyerhoeffer-jr-010-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "W. E. Friddle's Arcade"
 denomination: "$0.05"
 style: "Round Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-w-e-friddles-arcade-005/harrisonburg-w-e-friddles-arcade-005-obverse.jpg

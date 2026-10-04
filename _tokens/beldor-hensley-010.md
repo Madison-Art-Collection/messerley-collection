@@ -5,7 +5,6 @@ town: ["Beldor"]
 merchant: "Mrs. I. P. Hensley"
 denomination: "$0.10"
 style: "Octagon Aluminum"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/beldor-hensley-010/beldor-hensley-010-obverse.jpg

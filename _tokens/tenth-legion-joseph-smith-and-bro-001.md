@@ -5,7 +5,6 @@ town: ["Tenth Legion"]
 merchant: "Joseph Smith & Bro."
 denomination: "$0.01"
 style: "Oval Scalloped Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/tenth-legion-joseph-smith-and-bro-001/tenth-legion-joseph-smith-and-bro-001-obverse.jpg

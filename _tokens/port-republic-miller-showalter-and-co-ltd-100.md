@@ -5,7 +5,6 @@ town: ["Port Republic"]
 merchant: "Miller Showalter & Co. Ltd"
 denomination: "$1.00"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/port-republic-miller-showalter-and-co-ltd-100/port-republic-miller-showalter-and-co-ltd-100-obverse.jpg

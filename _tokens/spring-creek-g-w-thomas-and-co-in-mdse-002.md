@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "G. W. Thomas & Co. (In Mdse)"
 denomination: "$0.02"
 style: "Round Bronze"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-g-w-thomas-and-co-in-mdse-002/spring-creek-g-w-thomas-and-co-in-mdse-002-obverse.jpg

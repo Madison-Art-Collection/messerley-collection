@@ -5,7 +5,6 @@ town: ["Port Republic"]
 merchant: "John F. Miller"
 denomination: "$0.01"
 style: "Octagon Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/port-republic-john-f-miller-001/port-republic-john-f-miller-001-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Veteran's Club"
 denomination: "$0.05"
 style: "Octagon Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-veterans-club-005/harrisonburg-veterans-club-005-obverse.jpg

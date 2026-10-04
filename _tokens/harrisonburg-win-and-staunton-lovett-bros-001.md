@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Lovett Bros."
 denomination: "$0.01"
 style: "Lucky Piece"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-win-and-staunton-lovett-bros-001/harrisonburg-win-and-staunton-lovett-bros-001-obverse.jpg

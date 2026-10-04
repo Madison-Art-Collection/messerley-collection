@@ -5,7 +5,6 @@ town: ["Swift Run"]
 merchant: "W. H. Shifflett"
 denomination: "$0.25"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/swift-run-w-h-shifflett-025/swift-run-w-h-shifflett-025-obverse.jpg

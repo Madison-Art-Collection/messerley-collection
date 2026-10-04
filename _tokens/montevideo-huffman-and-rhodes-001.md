@@ -5,7 +5,6 @@ town: ["Montevideo"]
 merchant: "Huffman & Rhodes"
 denomination: "$0.01"
 style: "Octagon Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/montevideo-huffman-and-rhodes-001/montevideo-huffman-and-rhodes-001-obverse.jpg

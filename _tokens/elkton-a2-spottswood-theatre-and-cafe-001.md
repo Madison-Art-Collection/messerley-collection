@@ -5,7 +5,6 @@ town: ["Elkton"]
 merchant: "Spottswood Theatre & Cafe"
 denomination: "$0.01"
 style: "Square Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/elkton-a2-spottswood-theatre-and-cafe-001/elkton-a2-spottswood-theatre-and-cafe-001-obverse.jpg

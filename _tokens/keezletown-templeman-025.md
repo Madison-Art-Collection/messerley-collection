@@ -5,7 +5,6 @@ town: ["Keezletown"]
 merchant: "J. E. Templeman Co."
 denomination: "$0.25"
 style: "Round Aluminum"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/keezletown-templeman-025/keezletown-templeman-025-obverse.jpg

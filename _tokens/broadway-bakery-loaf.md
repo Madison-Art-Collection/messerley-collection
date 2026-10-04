@@ -5,7 +5,6 @@ town: ["Broadway"]
 merchant: "Broadway Bakery"
 denomination: "LOAF"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/broadway-bakery-loaf/broadway-bakery-loaf-obverse.jpg

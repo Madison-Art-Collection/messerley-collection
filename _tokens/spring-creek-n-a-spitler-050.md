@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "N. A. Spitler"
 denomination: "$0.50"
 style: "Round Bronze"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-n-a-spitler-050/spring-creek-n-a-spitler-050-obverse.jpg

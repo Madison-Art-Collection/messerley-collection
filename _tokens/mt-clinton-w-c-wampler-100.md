@@ -5,7 +5,6 @@ town: ["Mt. Clinton"]
 merchant: "W. C. Wampler"
 denomination: "$1.00"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mt-clinton-w-c-wampler-100/mt-clinton-w-c-wampler-100-obverse.jpg

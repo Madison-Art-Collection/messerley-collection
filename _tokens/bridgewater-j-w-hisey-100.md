@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "J. W. Hisey"
 denomination: "$1.00"
 style: "Round Aluminum"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-j-w-hisey-100/bridgewater-j-w-hisey-100-obverse.jpg

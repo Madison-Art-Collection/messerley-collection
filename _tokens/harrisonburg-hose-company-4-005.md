@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Hose Company 4"
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-hose-company-4-005/harrisonburg-hose-company-4-005-obverse.jpg

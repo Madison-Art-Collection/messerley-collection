@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Firestone Auto Supply"
 denomination: "lucky"
 style: "Key Tag"
-rarity: 
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-firestone-auto-supply-000/harrisonburg-firestone-auto-supply-000-obverse.jpg

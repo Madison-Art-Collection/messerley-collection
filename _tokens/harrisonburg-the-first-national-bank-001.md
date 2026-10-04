@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "The First National Bank"
 denomination: "$0.01"
 style: "Lucky Piece"
-rarity: "100 UP"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-the-first-national-bank-001/harrisonburg-the-first-national-bank-001-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Timber Ridge"]
 merchant: "C. D. Meyerhoeffer"
 denomination: "$1.00"
 style: "Round Aluminum"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/timber-ridge-c-d-meyerhoeffer-100/timber-ridge-c-d-meyerhoeffer-100-obverse.jpg

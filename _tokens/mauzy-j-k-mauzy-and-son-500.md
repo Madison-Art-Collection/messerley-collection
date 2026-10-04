@@ -5,7 +5,6 @@ town: ["Mauzy"]
 merchant: "J. K. Mauzy & Son"
 denomination: "$5.00"
 style: "Round Nickel"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/mauzy-j-k-mauzy-and-son-500/mauzy-j-k-mauzy-and-son-500-obverse.jpg

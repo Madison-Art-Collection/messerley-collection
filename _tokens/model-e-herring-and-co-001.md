@@ -5,7 +5,6 @@ town: ["Model"]
 merchant: "E. Herring & Co."
 denomination: "$0.01"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/model-e-herring-and-co-001/model-e-herring-and-co-001-obverse.jpg

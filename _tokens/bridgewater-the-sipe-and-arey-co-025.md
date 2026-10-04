@@ -5,7 +5,6 @@ town: ["Bridgewater"]
 merchant: "The Sipe & Arey Co."
 denomination: "$0.25"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-the-sipe-and-arey-co-025/bridgewater-the-sipe-and-arey-co-025-obverse.jpg

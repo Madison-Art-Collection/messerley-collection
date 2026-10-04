@@ -5,7 +5,6 @@ town: ["Lilly"]
 merchant: "The Sipe & Arey Co. #87"
 denomination: "$0.25"
 style: "Round Bronze"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/lilly-sipearey-025/lilly-sipearey-025-obverse.jpg

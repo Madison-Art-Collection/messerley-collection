@@ -5,7 +5,6 @@ town: ["Edom"]
 merchant: "J. W. Myers & Co."
 denomination: "$5.00"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/edom-j-w-myers-and-co-500/edom-j-w-myers-and-co-500-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "I. C. Oates"
 denomination: "$0.50"
 style: "Round Aluminum"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-i-c-oates-050/harrisonburg-i-c-oates-050-obverse.jpg

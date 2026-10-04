@@ -5,7 +5,6 @@ town: ["North River"]
 merchant: "Wine & Burgess"
 denomination: "$0.50"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/north-river-wine-and-burgess-050/north-river-wine-and-burgess-050-obverse.jpg

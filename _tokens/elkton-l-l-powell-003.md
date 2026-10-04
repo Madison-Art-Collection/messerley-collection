@@ -5,7 +5,6 @@ town: ["Elkton"]
 merchant: "L. L. Powell"
 denomination: "$0.03"
 style: "Round Aluminum"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/elkton-l-l-powell-003/elkton-l-l-powell-003-obverse.jpg

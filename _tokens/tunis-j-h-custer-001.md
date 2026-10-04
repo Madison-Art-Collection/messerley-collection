@@ -5,7 +5,6 @@ town: ["Tunis"]
 merchant: "J. H. Custer"
 denomination: "$0.01"
 style: "Round Bronze"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/tunis-j-h-custer-001/tunis-j-h-custer-001-obverse.jpg

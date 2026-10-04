@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "I.B.P.O.E. Of W."
 denomination: "$0.05"
 style: "Round Aluminum"
-rarity: "ONLY 1 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/harrisonburg-i-b-p-o-e-of-w-005/harrisonburg-i-b-p-o-e-of-w-005-obverse.jpg

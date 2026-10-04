@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Leggett's Dept. Store"
 denomination: "$0.01"
 style: "Lucky Piece"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-leggetts-dept-store-001/harrisonburg-leggetts-dept-store-001-obverse.jpg

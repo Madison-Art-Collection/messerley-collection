@@ -5,7 +5,6 @@ town: ["Rawley Springs"]
 merchant: "Ed's Park"
 denomination: "$0.01"
 style: "Lucky Piece"
-rarity: "ROCKINGHAM"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/rawley-springs-eds-park-001/rawley-springs-eds-park-001-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Genoa"]
 merchant: "Custer's Dept. Store"
 denomination: "$0.25"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/genoa-custers-dept-store-025/genoa-custers-dept-store-025-obverse.jpg

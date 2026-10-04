@@ -5,7 +5,6 @@ town: ["Harrisonburg"]
 merchant: "Bob's Food Products Co."
 denomination: "lucky"
 style: "Lucky Piece"
-rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-bobs-food-products-co-000/harrisonburg-bobs-food-products-co-000-obverse.jpg

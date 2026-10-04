@@ -5,7 +5,6 @@ town: ["Port Republic"]
 merchant: "M. A. Davis"
 denomination: "$0.10"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/port-republic-m-a-davis-010/port-republic-m-a-davis-010-obverse.jpg

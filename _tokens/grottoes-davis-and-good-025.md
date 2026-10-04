@@ -5,7 +5,6 @@ town: ["Grottoes"]
 merchant: "Davis & Good"
 denomination: "$0.25"
 style: "Octagon Bronze"
-rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/grottoes-davis-and-good-025/grottoes-davis-and-good-025-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "Campbell & Pence"
 denomination: "$0.01"
 style: "Round Bronze"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-campbell-and-pence-001/spring-creek-campbell-and-pence-001-obverse.jpg

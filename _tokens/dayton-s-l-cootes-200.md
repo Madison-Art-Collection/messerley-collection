@@ -5,7 +5,6 @@ town: ["Dayton"]
 merchant: "S. L. Cootes"
 denomination: "$2.00"
 style: "Rectangular Paper"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/dayton-s-l-cootes-200/dayton-s-l-cootes-200-obverse.jpg

@@ -5,7 +5,6 @@ town: ["Zenda"]
 merchant: "C. E. Long"
 denomination: "$0.25"
 style: "Round Bronze"
-rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/zenda-c-e-long-025/zenda-c-e-long-025-obverse.jpg

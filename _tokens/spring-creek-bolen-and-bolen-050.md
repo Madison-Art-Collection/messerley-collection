@@ -5,7 +5,6 @@ town: ["Spring Creek"]
 merchant: "Bolen & Bolen"
 denomination: "$0.50"
 style: "Round Aluminum"
-rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/spring-creek-bolen-and-bolen-050/spring-creek-bolen-and-bolen-050-obverse.jpg

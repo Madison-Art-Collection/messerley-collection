@@ -5,7 +5,6 @@ town: ["Elkton", "New Market"]
 merchant: "Gibbs & Heard"
 denomination:
 style: "Round Bronze"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/elkton-and-new-market-gibbs-and-heard-blank/elkton-and-new-market-gibbs-and-heard-blank-obverse.jpg

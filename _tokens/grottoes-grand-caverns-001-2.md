@@ -5,7 +5,6 @@ town: ["Grottoes"]
 merchant: "Grand Caverns"
 denomination: "$0.01"
 style: "Lucky Piece"
-rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/grottoes-grand-caverns-001-2/grottoes-grand-caverns-001-2-obverse.jpg

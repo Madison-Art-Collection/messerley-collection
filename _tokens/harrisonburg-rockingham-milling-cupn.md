@@ -1,9 +1,9 @@
 ---
 layout: token
-title: "Cupn. Token — Rockingham Milling, Harrisonburg"
+title: "Exonumia — Rockingham Milling Company, Harrisonburg"
 town: ["Harrisonburg"]
-merchant: "Rockingham Milling"
-denomination: "CUPN."
+merchant: "Rockingham Milling Company"
+denomination: "Coupon"
 style: "Rectangular Cardboard"
 rarity: "50-100 KNOWN"
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/harrisonburg-rockingham-milling-cupn/harrisonburg-rockingh
 image_aligned: tokens/harrisonburg-rockingham-milling-cupn/harrisonburg-rockingham-milling-cupn-aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Harrisonburg|Rockingham Milling|CUPN."
+sort_key: "Harrisonburg|Rockingham Milling Company|Coupon"
 featured: false
 ---

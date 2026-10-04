@@ -1,9 +1,9 @@
 ---
 layout: token
-title: "Play Token — Rockhm. Memorial Hospital, Harrisonburg"
+title: "Token — Rockingham Memorial Hospital, Harrisonburg"
 town: ["Harrisonburg"]
-merchant: "Rockhm. Memorial Hospital"
-denomination: "PLAY"
+merchant: "Rockingham Memorial Hospital"
+denomination: "Radio"
 style: "Round Zinc"
 rarity: "25-50 KNOWN"
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/harrisonburg-rockhm-memorial-hospital-play/harrisonburg-ro
 image_aligned: tokens/harrisonburg-rockhm-memorial-hospital-play/harrisonburg-rockhm-memorial-hospital-play-aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Harrisonburg|Rockhm. Memorial Hospital|PLAY"
+sort_key: "Harrisonburg|Rockingham Memorial Hospital|Radio"
 featured: false
 ---

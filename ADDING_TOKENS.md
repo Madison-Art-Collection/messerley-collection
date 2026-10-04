@@ -41,6 +41,14 @@ The `<scan_pair>`, `<page>`, `<row>`, `<col>` values come from
 for unmatched slots). `tools/align_coin_images.py` is only needed for tokens
 photographed/added outside that pipeline, where no pre-aligned composite exists.
 
+## Title convention
+
+`Token — Merchant, Town` for anything with a cash value, including paper and cardboard
+(prefix the denomination: `10¢ Token — ...`). `Exonumia — Merchant, Town` for pieces with
+no cash value (lucky pieces, medals, fobs, coupons, promotional cards). Spell the specific
+type out in `denomination` (Medal, Coupon, lucky) and use the merchant name as printed on
+the piece.
+
 ## Slug convention
 
 `<town>-<merchant-abbrev>-<denom-without-$-or-decimal>`, lowercase and hyphenated,

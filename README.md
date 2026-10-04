@@ -2,7 +2,7 @@
 
 A Jekyll (al-folio-based) showcase site for the **Messerley Collection** — a set of
 Virginia trade tokens digitized from a physical binder collection. Home page shows
-10 featured tokens (currently the rarest — "ONLY 1 KNOWN" — tier); `/collection/`
+10 hand-picked featured tokens (`featured: true`; 8 are "ONLY 1 KNOWN", 1 "LESS THAN 5", 1 "5-10 KNOWN"); `/collection/`
 is the full, filterable gallery (530 items: 516 coin tokens + 14 paper tokens, filter by town); `/map/` plots a pin
 per confirmed Rockingham County town/city, linking into the filtered Collection
 view; each token has its own detail page with obverse/reverse images and metadata.
@@ -25,9 +25,9 @@ Relevant source data for populating `_tokens/*.md` entries:
 - `../digitized/<scan_pair>/gallery/` and `.../aligned/` — per-token cropped and
   composited images, ready to copy in (no alignment step needed)
 
-All 530 matched items are populated (updated 2026-09-27 after the unmatched-row reconciliation; see the parent README). 5 town names (23 tokens) couldn't be
-confirmed as real Rockingham County places and are deliberately left off the
-`/map/` page's pins rather than guessed at — see `../UNKNOWN_PLACES.md` for detail
+All 530 matched items are populated (updated 2026-09-27 after the unmatched-row reconciliation; see the parent README). 6 town names (27 tokens: Furnace, Hoover, Hupp, Model, North River, Rainbow) couldn't be
+confirmed as specific Rockingham County places and are deliberately left off the
+`/map/` page's pins rather than guessed at (the map page lists them with links) — see `../UNKNOWN_PLACES.md` for detail
 and how to resolve them.
 
 ## Local development

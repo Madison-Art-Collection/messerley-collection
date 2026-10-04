@@ -8,7 +8,9 @@ nav_order: 3
 map: true
 ---
 
-Every pin marks a locality in Rockingham County from which our tokens originated. Presently, there are 42 place names covering 497 tokens. Click a pin to see how many tokens came from that town, then follow the link to browse them on the [Collection]({{ site.baseurl }}/collection/) page.
+Every pin marks a place named on one or more of our tokens, nearly all in or around Rockingham County. Presently, there are 42 place names covering 497 of the collection's 530 tokens. Click a pin to see how many tokens came from that town, then follow the link to browse them on the [Collection]({{ site.baseurl }}/collection/) page. A token that names two places (for example Cross Keys and Penn Laird) is counted under both pins.
+
+The remaining 33 tokens are not pinned. Two of their place labels are not a single point on a map: [Rockingham County]({{ site.baseurl }}/collection/?town=rockingham%20county) (3 tokens) names the whole county, and [Meyerhoeffers Store]({{ site.baseurl }}/collection/?town=meyerhoeffers%20store) (3 tokens) names a store. The other six have not been confirmed as specific places: [Furnace]({{ site.baseurl }}/collection/?town=furnace) (7), [Hoover]({{ site.baseurl }}/collection/?town=hoover) (2), [Hupp]({{ site.baseurl }}/collection/?town=hupp) (3), [Model]({{ site.baseurl }}/collection/?town=model) (6), [North River]({{ site.baseurl }}/collection/?town=north%20river) (8), and [Rainbow]({{ site.baseurl }}/collection/?town=rainbow) (1). They are listed here rather than pinned in a guessed location.
 
 
 ```geojson

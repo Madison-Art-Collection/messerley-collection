@@ -1,8 +1,8 @@
 ---
 layout: token
-title: "$6 Token — Town of Broadway Tax Slip, Broadway"
+title: "$6 Bond — Town of Broadway, Broadway"
 town: ["Broadway"]
-merchant: "Town of Broadway Tax Slip"
+merchant: "Town of Broadway"
 denomination: "$6.00"
 style: "Rectangular Paper"
 catalog_reference:
@@ -12,6 +12,6 @@ image_reverse: tokens/broadway-town-of-broadway-tax-slip-600/broadway-town-of-br
 image_aligned: tokens/broadway-town-of-broadway-tax-slip-600/broadway-town-of-broadway-tax-slip-600-aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Broadway|Town of Broadway Tax Slip|$6.00"
+sort_key: "Broadway|Town of Broadway|$6.00"
 featured: false
 ---

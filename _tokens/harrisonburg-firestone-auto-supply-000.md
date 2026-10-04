@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "Exonumia — Firestone Auto Supply, Harrisonburg"
+title: "Lucky Piece — Firestone Auto Supply, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "Firestone Auto Supply"
 denomination: "lucky"

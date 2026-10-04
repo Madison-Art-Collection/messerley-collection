@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Farmers & Merchants Bank, Timberville"
+title: "1¢ Lucky Piece — Farmers & Merchants Bank, Timberville"
 town: ["Timberville"]
 merchant: "Farmers & Merchants Bank"
 denomination: "$0.01"

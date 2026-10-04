@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "Exonumia — J. C. Neff, Harrisonburg"
+title: "Lucky Piece — J. C. Neff, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "J. C. Neff"
 denomination: "lucky"

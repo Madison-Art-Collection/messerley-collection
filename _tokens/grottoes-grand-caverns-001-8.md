@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Grand Caverns, Grottoes"
+title: "1¢ Lucky Piece — Grand Caverns, Grottoes"
 town: ["Grottoes"]
 merchant: "Grand Caverns"
 denomination: "$0.01"

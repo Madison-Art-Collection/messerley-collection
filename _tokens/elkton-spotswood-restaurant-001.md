@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Spotswood Restaurant, Elkton"
+title: "1¢ Lucky Piece — Spotswood Restaurant, Elkton"
 town: ["Elkton"]
 merchant: "Spotswood Restaurant"
 denomination: "$0.01"

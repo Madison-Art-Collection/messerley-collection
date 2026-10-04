@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Lovett Bros., Harrisonburg (Win. & Staunton)"
+title: "1¢ Lucky Piece — Lovett Bros., Harrisonburg (Win. & Staunton)"
 town: ["Harrisonburg"]
 merchant: "Lovett Bros."
 denomination: "$0.01"

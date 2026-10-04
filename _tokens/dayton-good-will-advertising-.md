@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "Exonumia — Good Will Advertising, Dayton"
+title: "Lucky Piece — Good Will Advertising, Dayton"
 town: ["Dayton"]
 merchant: "Good Will Advertising"
 denomination: "lucky"

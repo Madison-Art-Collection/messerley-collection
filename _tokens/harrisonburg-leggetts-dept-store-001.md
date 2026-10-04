@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Leggett's Dept. Store, Harrisonburg"
+title: "1¢ Lucky Piece — Leggett's Dept. Store, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "Leggett's Dept. Store"
 denomination: "$0.01"

@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Ed's Park, Rawley Springs"
+title: "1¢ Lucky Piece — Ed's Park, Rawley Springs"
 town: ["Rawley Springs"]
 merchant: "Ed's Park"
 denomination: "$0.01"

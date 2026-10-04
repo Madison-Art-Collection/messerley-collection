@@ -45,7 +45,8 @@ photographed/added outside that pipeline, where no pre-aligned composite exists.
 
 `Token — Merchant, Town` for anything with a cash value, including paper and cardboard
 (prefix the denomination: `10¢ Token — ...`). `Exonumia — Merchant, Town` for pieces with
-no cash value (lucky pieces, medals, fobs, coupons, promotional cards). Spell the specific
+no cash value (medals, fobs, coupons, promotional cards). A lucky piece is titled
+`Lucky Piece — Merchant, Town` (`1¢ Lucky Piece — ...` for an encased cent). Spell the specific
 type out in `denomination` (Medal, Coupon, lucky) and use the merchant name as printed on
 the piece.
 

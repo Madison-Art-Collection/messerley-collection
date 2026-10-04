@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — The First National Bank, Harrisonburg"
+title: "1¢ Lucky Piece — The First National Bank, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "The First National Bank"
 denomination: "$0.01"

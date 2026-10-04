@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "Exonumia — Bob's Food Products Co., Harrisonburg"
+title: "Lucky Piece — Bob's Food Products Co., Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "Bob's Food Products Co."
 denomination: "lucky"

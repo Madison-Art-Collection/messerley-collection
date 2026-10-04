@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — M. & F. Ney, Jewelers, Harrisonburg"
+title: "1¢ Lucky Piece — M. & F. Ney, Jewelers, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "M. & F. Ney, Jewelers"
 denomination: "$0.01"

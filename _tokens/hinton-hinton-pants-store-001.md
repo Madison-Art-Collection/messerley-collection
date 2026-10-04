@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "1¢ Token — Hinton Pants Store, Hinton"
+title: "1¢ Lucky Piece — Hinton Pants Store, Hinton"
 town: ["Hinton"]
 merchant: "Hinton Pants Store"
 denomination: "$0.01"

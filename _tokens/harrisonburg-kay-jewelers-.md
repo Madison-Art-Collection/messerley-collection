@@ -1,9 +1,9 @@
 ---
 layout: token
-title: "##### Token — Kay Jewelers, Harrisonburg"
+title: "$10 Token — Kay Jewelers, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "Kay Jewelers"
-denomination: "#####"
+denomination: "$10.00"
 style: "Round Bronze"
 rarity: "100 UP"
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/harrisonburg-kay-jewelers-/harrisonburg-kay-jewelers--reve
 image_aligned: tokens/harrisonburg-kay-jewelers-/harrisonburg-kay-jewelers--aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Harrisonburg|Kay Jewelers|#####"
+sort_key: "Harrisonburg|Kay Jewelers|$10.00"
 featured: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: token
-title: "$2 Token — S. L. Cootes, Dayton"
+title: "$2 Exonumia — S. L. Cootes, Dayton"
 town: ["Dayton"]
 merchant: "S. L. Cootes"
 denomination: "$2.00"

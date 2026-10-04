@@ -1,9 +1,9 @@
 ---
 layout: token
-title: "0¢ Token — Firestone Auto Supply, Harrisonburg"
+title: "Exonumia — Firestone Auto Supply, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "Firestone Auto Supply"
-denomination: "$0.00"
+denomination: "lucky"
 style: "Key Tag"
 rarity: 
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/harrisonburg-firestone-auto-supply-000/harrisonburg-firest
 image_aligned: tokens/harrisonburg-firestone-auto-supply-000/harrisonburg-firestone-auto-supply-000-aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Harrisonburg|Firestone Auto Supply|$0.00"
+sort_key: "Harrisonburg|Firestone Auto Supply|lucky"
 featured: false
 ---

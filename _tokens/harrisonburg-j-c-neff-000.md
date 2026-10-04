@@ -1,9 +1,9 @@
 ---
 layout: token
-title: "0¢ Token — J. C. Neff, Harrisonburg"
+title: "Exonumia — J. C. Neff, Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "J. C. Neff"
-denomination: "$0.00"
+denomination: "lucky"
 style: "Lucky Piece"
 rarity: "50-100 KNOWN"
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/harrisonburg-j-c-neff-000/harrisonburg-j-c-neff-000-revers
 image_aligned: tokens/harrisonburg-j-c-neff-000/harrisonburg-j-c-neff-000-aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Harrisonburg|J. C. Neff|$0.00"
+sort_key: "Harrisonburg|J. C. Neff|lucky"
 featured: false
 ---

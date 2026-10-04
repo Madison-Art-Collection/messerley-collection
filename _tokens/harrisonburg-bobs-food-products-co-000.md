@@ -1,9 +1,9 @@
 ---
 layout: token
-title: "0¢ Token — Bob's Food Products Co., Harrisonburg"
+title: "Exonumia — Bob's Food Products Co., Harrisonburg"
 town: ["Harrisonburg"]
 merchant: "Bob's Food Products Co."
-denomination: "$0.00"
+denomination: "lucky"
 style: "Lucky Piece"
 rarity: "10-25 KNOWN"
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/harrisonburg-bobs-food-products-co-000/harrisonburg-bobs-f
 image_aligned: tokens/harrisonburg-bobs-food-products-co-000/harrisonburg-bobs-food-products-co-000-aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Harrisonburg|Bob's Food Products Co.|$0.00"
+sort_key: "Harrisonburg|Bob's Food Products Co.|lucky"
 featured: false
 ---

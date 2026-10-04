@@ -1,9 +1,9 @@
 ---
 layout: token
-title: " Token — Good Will Advertising, Dayton"
+title: "Exonumia — Good Will Advertising, Dayton"
 town: ["Dayton"]
 merchant: "Good Will Advertising"
-denomination: ""
+denomination: "lucky"
 style: "Lucky Piece / Round Aluminum"
 rarity: "5-10 KNOWN"
 catalog_reference:
@@ -13,6 +13,6 @@ image_reverse: tokens/dayton-good-will-advertising-/dayton-good-will-advertising
 image_aligned: tokens/dayton-good-will-advertising-/dayton-good-will-advertising--aligned.jpg
 obverse_description:
 reverse_description:
-sort_key: "Dayton|Good Will Advertising|"
+sort_key: "Dayton|Good Will Advertising|lucky"
 featured: false
 ---

@@ -41,6 +41,15 @@ The `<scan_pair>`, `<page>`, `<row>`, `<col>` values come from
 for unmatched slots). `tools/align_coin_images.py` is only needed for tokens
 photographed/added outside that pipeline, where no pre-aligned composite exists.
 
+## Title convention
+
+`Token — Merchant, Town` for anything with a cash value, including paper and cardboard
+(prefix the denomination: `10¢ Token — ...`). `Exonumia — Merchant, Town` for pieces with
+no cash value (medals, fobs, coupons, promotional cards). A lucky piece is titled
+`Lucky Piece — Merchant, Town` (`1¢ Lucky Piece — ...` for an encased cent). Spell the specific
+type out in `denomination` (Medal, Coupon, lucky) and use the merchant name as printed on
+the piece.
+
 ## Slug convention
 
 `<town>-<merchant-abbrev>-<denom-without-$-or-decimal>`, lowercase and hyphenated,
@@ -58,7 +67,6 @@ town: ["Bridgewater"]
 merchant: "J. W. Click & Co."
 denomination: "$0.10"
 style: "Oval Aluminum"         # human-readable expansion of the `style` inventory column's shape/material code
-rarity: "5-10 KNOWN"           # from the `rarity` inventory column
 catalog_reference:             # optional, blank unless a published catalog number exists
 match_tier: exact              # exact | fuzzy-denom | special-merchant-only (from token_inventory_matches.csv)
 image_obverse: tokens/bridgewater-click-010/bridgewater-click-010-obverse.jpg
@@ -131,9 +139,8 @@ Optional free-form markdown body — merchant/town history, provenance notes, et
 - `match_tier`: internal provenance/confidence marker carried over from the
   extraction-to-inventory matching pipeline; not currently rendered in the UI, kept
   for future auditing
-- `rarity`: straight from the typed inventory; leave blank if unknown rather than
-  guessing. Note: estimated/appraisal value is intentionally NOT part of this
-  schema — it's private data, not for public display.
+- Rarity is intentionally NOT part of this schema (removed 2026-10-04), and neither is
+  estimated/appraisal value — it's private data, not for public display.
 
 ## Display Order
 

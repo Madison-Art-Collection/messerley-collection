@@ -223,8 +223,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/broadway-the-creamery-store-soda/";
-            },},{id: "tokens-6-token-town-of-broadway-tax-slip-broadway",
-          title: '$6 Token — Town of Broadway Tax Slip, Broadway',
+            },},{id: "tokens-6-bond-town-of-broadway-broadway",
+          title: '$6 Bond — Town of Broadway, Broadway',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/broadway-town-of-broadway-tax-slip-600/";
@@ -388,8 +388,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/dayton-g-w-hedrick-and-co-005/";
-            },},{id: "tokens-token-good-will-advertising-dayton",
-          title: 'Token — Good Will Advertising, Dayton',
+            },},{id: "tokens-lucky-piece-good-will-advertising-dayton",
+          title: 'Lucky Piece — Good Will Advertising, Dayton',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/dayton-good-will-advertising-/";
@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/dayton-s-l-cootes-and-g-w-hedrick-and-co-050/";
-            },},{id: "tokens-2-token-s-l-cootes-dayton",
-          title: '$2 Token — S. L. Cootes, Dayton',
+            },},{id: "tokens-2-exonumia-s-l-cootes-dayton",
+          title: '$2 Exonumia — S. L. Cootes, Dayton',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/dayton-s-l-cootes-200/";
@@ -458,6 +458,11 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/elkton-and-new-market-22-zz-and-gibbs-and-heard-010/";
+            },},{id: "tokens-token-gibbs-amp-heard-elkton-amp-new-market",
+          title: 'Token — Gibbs &amp;amp; Heard, Elkton &amp;amp; New Market',
+          description: "",
+          section: "Tokens",handler: () => {
+              window.location.href = "/messerley-collection/tokens/elkton-and-new-market-gibbs-and-heard-blank/";
             },},{id: "tokens-1-token-gibbs-amp-heard-elkton-amp-new-market",
           title: '1¢ Token — Gibbs &amp;amp; Heard, Elkton &amp;amp; New Market',
           description: "",
@@ -493,11 +498,6 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/elkton-and-new-market-gibbs-and-heard-075/";
-            },},{id: "tokens-blank-token-gibbs-amp-heard-elkton-amp-new-market",
-          title: 'Blank Token — Gibbs &amp;amp; Heard, Elkton &amp;amp; New Market',
-          description: "",
-          section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/elkton-and-new-market-gibbs-and-heard-blank/";
             },},{id: "tokens-5-token-double-cola-elkton",
           title: '5¢ Token — Double-Cola, Elkton',
           description: "",
@@ -543,8 +543,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/elkton-l-l-powell-003/";
-            },},{id: "tokens-1-token-spotswood-restaurant-elkton",
-          title: '1¢ Token — Spotswood Restaurant, Elkton',
+            },},{id: "tokens-1-lucky-piece-spotswood-restaurant-elkton",
+          title: '1¢ Lucky Piece — Spotswood Restaurant, Elkton',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/elkton-spotswood-restaurant-001/";
@@ -738,58 +738,58 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-davis-and-mcclung-100/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-10/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-11/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-2/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-3/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-4/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-5/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-6/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-7/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-8/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001-9/";
-            },},{id: "tokens-1-token-grand-caverns-grottoes",
-          title: '1¢ Token — Grand Caverns, Grottoes',
+            },},{id: "tokens-1-lucky-piece-grand-caverns-grottoes",
+          title: '1¢ Lucky Piece — Grand Caverns, Grottoes',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/grottoes-grand-caverns-001/";
@@ -908,8 +908,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-bpoe-and-stars-005/";
-            },},{id: "tokens-0-token-bob-39-s-food-products-co-harrisonburg",
-          title: '0¢ Token — Bob&amp;#39;s Food Products Co., Harrisonburg',
+            },},{id: "tokens-lucky-piece-bob-39-s-food-products-co-harrisonburg",
+          title: 'Lucky Piece — Bob&amp;#39;s Food Products Co., Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-bobs-food-products-co-000/";
@@ -938,8 +938,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-d-f-garber-and-co-005/";
-            },},{id: "tokens-0-token-firestone-auto-supply-harrisonburg",
-          title: '0¢ Token — Firestone Auto Supply, Harrisonburg',
+            },},{id: "tokens-lucky-piece-firestone-auto-supply-harrisonburg",
+          title: 'Lucky Piece — Firestone Auto Supply, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-firestone-auto-supply-000/";
@@ -988,16 +988,16 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-garbers-red-front-market-100/";
-            },},{id: "tokens-tag-token-h-burg-bldg-amp-supply-co-harrisonburg",
-          title: 'Tag Token — H-Burg Bldg. &amp;amp; Supply Co., Harrisonburg',
-          description: "",
-          section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/harrisonburg-h-burg-bldg-and-supply-co-tag/";
             },},{id: "tokens-5-token-h-j-o-39-donnell-harrisonburg",
           title: '5¢ Token — H. J. O&amp;#39;Donnell, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-h-j-odonnell-005/";
+            },},{id: "tokens-exonumia-harrisonburg-bldg-amp-supply-co-harrisonburg",
+          title: 'Exonumia — Harrisonburg Bldg. &amp;amp; Supply Co., Harrisonburg',
+          description: "",
+          section: "Tokens",handler: () => {
+              window.location.href = "/messerley-collection/tokens/harrisonburg-h-burg-bldg-and-supply-co-tag/";
             },},{id: "tokens-25-token-herman-wise-amp-sons-inc-harrisonburg",
           title: '25¢ Token — Herman Wise &amp;amp; Sons Inc., Harrisonburg',
           description: "",
@@ -1028,8 +1028,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-i-b-p-o-e-of-w-005/";
-            },},{id: "tokens-0-token-j-c-neff-harrisonburg",
-          title: '0¢ Token — J. C. Neff, Harrisonburg',
+            },},{id: "tokens-lucky-piece-j-c-neff-harrisonburg",
+          title: 'Lucky Piece — J. C. Neff, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-j-c-neff-000/";
@@ -1048,8 +1048,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-j-s-denton-and-son-inc-100/";
-            },},{id: "tokens-token-kay-jewelers-harrisonburg",
-          title: '##### Token — Kay Jewelers, Harrisonburg',
+            },},{id: "tokens-10-token-kay-jewelers-harrisonburg",
+          title: '$10 Token — Kay Jewelers, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-kay-jewelers-/";
@@ -1073,8 +1073,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-l-h-brown-010/";
-            },},{id: "tokens-1-token-leggett-39-s-dept-store-harrisonburg",
-          title: '1¢ Token — Leggett&amp;#39;s Dept. Store, Harrisonburg',
+            },},{id: "tokens-1-lucky-piece-leggett-39-s-dept-store-harrisonburg",
+          title: '1¢ Lucky Piece — Leggett&amp;#39;s Dept. Store, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-leggetts-dept-store-001/";
@@ -1083,13 +1083,13 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-loewners-on-the-square-005/";
-            },},{id: "tokens-1-token-lovett-bros-harrisonburg-win-amp-staunton",
-          title: '1¢ Token — Lovett Bros., Harrisonburg (Win. &amp;amp; Staunton)',
+            },},{id: "tokens-1-lucky-piece-lovett-bros-harrisonburg-win-amp-staunton",
+          title: '1¢ Lucky Piece — Lovett Bros., Harrisonburg (Win. &amp;amp; Staunton)',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-win-and-staunton-lovett-bros-001/";
-            },},{id: "tokens-1-token-m-amp-f-ney-jewelers-harrisonburg",
-          title: '1¢ Token — M. &amp;amp; F. Ney, Jewelers, Harrisonburg',
+            },},{id: "tokens-1-lucky-piece-m-amp-f-ney-jewelers-harrisonburg",
+          title: '1¢ Lucky Piece — M. &amp;amp; F. Ney, Jewelers, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-m-and-f-ney-jewelers-001/";
@@ -1123,11 +1123,6 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-millers-bargain-store-005/";
-            },},{id: "tokens-play-token-rockhm-memorial-hospital-harrisonburg",
-          title: 'Play Token — Rockhm. Memorial Hospital, Harrisonburg',
-          description: "",
-          section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/harrisonburg-rockhm-memorial-hospital-play/";
             },},{id: "tokens-1-token-rockingham-chapter-30mm-harrisonburg-masons",
           title: '1¢ Token — Rockingham Chapter 30MM, Harrisonburg (Masons)',
           description: "",
@@ -1148,16 +1143,21 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-masons-rockingham-chapter-32mm-001/";
-            },},{id: "tokens-shkl-token-rockingham-chapter-harrisonburg-masons",
-          title: 'Shkl Token — Rockingham Chapter, Harrisonburg (Masons)',
+            },},{id: "tokens-token-rockingham-memorial-hospital-harrisonburg",
+          title: 'Token — Rockingham Memorial Hospital, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/harrisonburg-masons-rockingham-chapter-shkl/";
-            },},{id: "tokens-cupn-token-rockingham-milling-harrisonburg",
-          title: 'Cupn. Token — Rockingham Milling, Harrisonburg',
+              window.location.href = "/messerley-collection/tokens/harrisonburg-rockhm-memorial-hospital-play/";
+            },},{id: "tokens-exonumia-rockingham-milling-company-harrisonburg",
+          title: 'Exonumia — Rockingham Milling Company, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-rockingham-milling-cupn/";
+            },},{id: "tokens-exonumia-rockingham-royal-arch-chapter-6-harrisonburg-masons",
+          title: 'Exonumia — Rockingham Royal Arch Chapter #6, Harrisonburg (Masons)',
+          description: "",
+          section: "Tokens",handler: () => {
+              window.location.href = "/messerley-collection/tokens/harrisonburg-masons-rockingham-chapter-shkl/";
             },},{id: "tokens-10-token-st-joseph-chapter-45-harrisonburg-masons",
           title: '10¢ Token — St. Joseph Chapter #45, Harrisonburg (Masons)',
           description: "",
@@ -1198,8 +1198,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-state-teachers-college-200/";
-            },},{id: "tokens-1-token-the-first-national-bank-harrisonburg",
-          title: '1¢ Token — The First National Bank, Harrisonburg',
+            },},{id: "tokens-1-lucky-piece-the-first-national-bank-harrisonburg",
+          title: '1¢ Lucky Piece — The First National Bank, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-the-first-national-bank-001/";
@@ -1248,8 +1248,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-veterans-club-005/";
-            },},{id: "tokens-token-w-a-messerole-amp-bro-harrisonburg",
-          title: '##### Token — W. A. Messerole &amp;amp; Bro., Harrisonburg',
+            },},{id: "tokens-exonumia-w-a-meserole-amp-bro-harrisonburg",
+          title: 'Exonumia — W. A. Meserole &amp;amp; Bro., Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-w-a-messerole-and-bro-/";
@@ -1268,18 +1268,18 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-w-m-menifee-wm-mcatee-001/";
-            },},{id: "tokens-medl-token-waterman-school-harrisonburg",
-          title: 'Medl. Token — Waterman School, Harrisonburg',
+            },},{id: "tokens-exonumia-waterman-school-harrisonburg",
+          title: 'Exonumia — Waterman School, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-waterman-school-medl/";
-            },},{id: "tokens-token-wilson-jewelers-harrisonburg",
-          title: '##### Token — Wilson Jewelers, Harrisonburg',
+            },},{id: "tokens-10-token-wilson-jewelers-harrisonburg",
+          title: '$10 Token — Wilson Jewelers, Harrisonburg',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/harrisonburg-wilson-jewelers-/";
-            },},{id: "tokens-1-token-hinton-pants-store-hinton",
-          title: '1¢ Token — Hinton Pants Store, Hinton',
+            },},{id: "tokens-1-lucky-piece-hinton-pants-store-hinton",
+          title: '1¢ Lucky Piece — Hinton Pants Store, Hinton',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/hinton-hinton-pants-store-001/";
@@ -2238,8 +2238,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/rainbow-w-a-smith-025/";
-            },},{id: "tokens-1-token-ed-39-s-park-rawley-springs",
-          title: '1¢ Token — Ed&amp;#39;s Park, Rawley Springs',
+            },},{id: "tokens-1-lucky-piece-ed-39-s-park-rawley-springs",
+          title: '1¢ Lucky Piece — Ed&amp;#39;s Park, Rawley Springs',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/rawley-springs-eds-park-001/";
@@ -2608,8 +2608,8 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/timberville-dr-w-a-vaughan-005/";
-            },},{id: "tokens-1-token-farmers-amp-merchants-bank-timberville",
-          title: '1¢ Token — Farmers &amp;amp; Merchants Bank, Timberville',
+            },},{id: "tokens-1-lucky-piece-farmers-amp-merchants-bank-timberville",
+          title: '1¢ Lucky Piece — Farmers &amp;amp; Merchants Bank, Timberville',
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/timberville-farmers-and-merchants-bank-001/";

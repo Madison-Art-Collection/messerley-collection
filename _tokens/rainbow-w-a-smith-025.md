@@ -5,8 +5,8 @@ town: ["Rainbow"]
 merchant: "W. A. Smith"
 denomination: "$0.25"
 style: "Scalloped Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman S5-25"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/rainbow-w-a-smith-025/rainbow-w-a-smith-025-obverse.jpg
 image_reverse: tokens/rainbow-w-a-smith-025/rainbow-w-a-smith-025-reverse.jpg

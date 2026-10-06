@@ -5,6 +5,7 @@ town: ["McGaheysville"]
 merchant: "Mauzy & Armentrout"
 denomination: "$0.10"
 style: "Round Bronze (10 Cts)"
+rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/mcgaheysville-mauzy-and-armentrout-010/mcgaheysville-mauzy-and-armentrout-010-obverse.jpg

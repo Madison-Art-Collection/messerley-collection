@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "J. C. Neff"
 denomination: "lucky"
 style: "Lucky Piece"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-j-c-neff-000/harrisonburg-j-c-neff-000-obverse.jpg

@@ -5,8 +5,8 @@ town: ["Grottoes"]
 merchant: "Pirkey Bros."
 denomination: "$0.25"
 style: "Octagon Bronze"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman P5-25"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/grottoes-pirkey-bros-025/grottoes-pirkey-bros-025-obverse.jpg
 image_reverse: tokens/grottoes-pirkey-bros-025/grottoes-pirkey-bros-025-reverse.jpg

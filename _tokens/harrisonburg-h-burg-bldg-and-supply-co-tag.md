@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "Harrisonburg Bldg. & Supply Co."
 denomination: "Advertising Fob"
 style: "Round Bronze"
+rarity: "100 UP"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-h-burg-bldg-and-supply-co-tag/harrisonburg-h-burg-bldg-and-supply-co-tag-obverse.jpg

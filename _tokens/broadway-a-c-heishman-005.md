@@ -5,8 +5,8 @@ town: ["Broadway"]
 merchant: "A. C. Heishman"
 denomination: "$0.05"
 style: "Round Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman H5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/broadway-a-c-heishman-005/broadway-a-c-heishman-005-obverse.jpg
 image_reverse: tokens/broadway-a-c-heishman-005/broadway-a-c-heishman-005-reverse.jpg

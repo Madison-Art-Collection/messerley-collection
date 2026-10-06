@@ -5,8 +5,8 @@ town: ["Keezletown"]
 merchant: "M. E. Partlow"
 denomination: "$1.00"
 style: "Round Bronze"
+rarity: "5-10 KNOWN"
 catalog_reference: "Schenkman P5-100"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/keezletown-m-e-partlow-100/keezletown-m-e-partlow-100-obverse.jpg
 image_reverse: tokens/keezletown-m-e-partlow-100/keezletown-m-e-partlow-100-reverse.jpg

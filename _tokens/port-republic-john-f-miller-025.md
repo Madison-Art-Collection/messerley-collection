@@ -5,8 +5,8 @@ town: ["Port Republic"]
 merchant: "John F. Miller"
 denomination: "$0.25"
 style: "Octagon Aluminum"
+rarity: "5-10 KNOWN"
 catalog_reference: "Schenkman M15-25"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-john-f-miller-025/port-republic-john-f-miller-025-obverse.jpg
 image_reverse: tokens/port-republic-john-f-miller-025/port-republic-john-f-miller-025-reverse.jpg

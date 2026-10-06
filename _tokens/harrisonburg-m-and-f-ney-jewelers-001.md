@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "M. & F. Ney, Jewelers"
 denomination: "$0.01"
 style: "Lucky Piece"
+rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-m-and-f-ney-jewelers-001/harrisonburg-m-and-f-ney-jewelers-001-obverse.jpg

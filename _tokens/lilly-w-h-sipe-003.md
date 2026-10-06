@@ -5,8 +5,8 @@ town: ["Lilly"]
 merchant: "W. H. Sipe"
 denomination: "$0.03"
 style: "Octagon Nickel"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman S10-3"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/lilly-w-h-sipe-003/lilly-w-h-sipe-003-obverse.jpg
 image_reverse: tokens/lilly-w-h-sipe-003/lilly-w-h-sipe-003-reverse.jpg

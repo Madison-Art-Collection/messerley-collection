@@ -5,6 +5,7 @@ town: ["Mt. Clinton"]
 merchant: "W. E. Long & Sons"
 denomination: "$0.10"
 style: "Round Bronze (Drink)"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/mt-clinton-w-e-long-and-sons-010-2/mt-clinton-w-e-long-and-sons-010-2-obverse.jpg

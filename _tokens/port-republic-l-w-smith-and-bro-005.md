@@ -5,8 +5,8 @@ town: ["Port Republic"]
 merchant: "L. W. Smith & Bro."
 denomination: "$0.05"
 style: "Octagon Aluminum"
+rarity: "25-50 KNOWN"
 catalog_reference: "Schenkman S5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-l-w-smith-and-bro-005/port-republic-l-w-smith-and-bro-005-obverse.jpg
 image_reverse: tokens/port-republic-l-w-smith-and-bro-005/port-republic-l-w-smith-and-bro-005-reverse.jpg

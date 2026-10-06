@@ -5,8 +5,8 @@ town: ["Furnace"]
 merchant: "H. K. Rothgeb & Co."
 denomination: "$0.10"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman R5-10"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/furnace-h-k-rothgeb-and-co-010/furnace-h-k-rothgeb-and-co-010-obverse.jpg
 image_reverse: tokens/furnace-h-k-rothgeb-and-co-010/furnace-h-k-rothgeb-and-co-010-reverse.jpg

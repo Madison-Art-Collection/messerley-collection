@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "Valley Lumber Corp."
 denomination: "$0.25"
 style: "Round Aluminum"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman V5-25"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/harrisonburg-valley-lumber-corp-025/harrisonburg-valley-lumber-corp-025-obverse.jpg
 image_reverse: tokens/harrisonburg-valley-lumber-corp-025/harrisonburg-valley-lumber-corp-025-reverse.jpg

@@ -5,8 +5,8 @@ town: ["Port Republic"]
 merchant: "L. E. Lee"
 denomination: "$0.05"
 style: "Round Aluminum"
+rarity: "5-10 KNOWN"
 catalog_reference: "Schenkman L5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-l-e-lee-005/port-republic-l-e-lee-005-obverse.jpg
 image_reverse: tokens/port-republic-l-e-lee-005/port-republic-l-e-lee-005-reverse.jpg

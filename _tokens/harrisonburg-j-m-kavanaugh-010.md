@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "J. M. Kavanaugh"
 denomination: "$0.10"
 style: "Round Bronze"
+rarity: "25-50 KNOWN"
 catalog_reference: "Schenkman K5-10"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-j-m-kavanaugh-010/harrisonburg-j-m-kavanaugh-010-obverse.jpg
 image_reverse: tokens/harrisonburg-j-m-kavanaugh-010/harrisonburg-j-m-kavanaugh-010-reverse.jpg

@@ -5,6 +5,7 @@ town: ["Bridgewater"]
 merchant: "Spring Creek Merc. Co. Inc."
 denomination: "$0.25"
 style: "Rectangular Paper"
+rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/bridgewater-spring-creek-merc-co-inc-025/bridgewater-spring-creek-merc-co-inc-025-obverse.jpg

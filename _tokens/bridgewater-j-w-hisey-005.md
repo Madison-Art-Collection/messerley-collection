@@ -5,8 +5,8 @@ town: ["Bridgewater"]
 merchant: "J. W. Hisey"
 denomination: "$0.05"
 style: "Octagon Aluminum"
+rarity: "50-100 KNOWN"
 catalog_reference: "Schenkman H5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/bridgewater-j-w-hisey-005/bridgewater-j-w-hisey-005-obverse.jpg
 image_reverse: tokens/bridgewater-j-w-hisey-005/bridgewater-j-w-hisey-005-reverse.jpg

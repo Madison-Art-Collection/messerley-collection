@@ -5,6 +5,7 @@ town: ["Timberville"]
 merchant: "Dr. W. A. Vaughan"
 denomination: "$0.05"
 style: "Round Aluminum"
+rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/timberville-dr-w-a-vaughan-005/timberville-dr-w-a-vaughan-005-obverse.jpg

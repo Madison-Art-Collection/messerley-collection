@@ -5,6 +5,7 @@ town: ["Montevideo"]
 merchant: "Gochenour Brothers"
 denomination: "$0.05"
 style: "Round Aluminum (LG. 5)"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/montevideo-gochenour-brothers-005-2/montevideo-gochenour-brothers-005-2-obverse.jpg

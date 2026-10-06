@@ -5,6 +5,7 @@ town: ["Timberville"]
 merchant: "Farmers & Merchants Bank"
 denomination: "$0.01"
 style: "Lucky Piece"
+rarity: "100 UP"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/timberville-farmers-and-merchants-bank-001/timberville-farmers-and-merchants-bank-001-obverse.jpg

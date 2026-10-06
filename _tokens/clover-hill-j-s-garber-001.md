@@ -5,8 +5,8 @@ town: ["Clover Hill"]
 merchant: "J. S. Garber"
 denomination: "$0.01"
 style: "Round Aluminum"
+rarity: "5-10 KNOWN"
 catalog_reference: "Schenkman G5-1"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/clover-hill-j-s-garber-001/clover-hill-j-s-garber-001-obverse.jpg
 image_reverse: tokens/clover-hill-j-s-garber-001/clover-hill-j-s-garber-001-reverse.jpg

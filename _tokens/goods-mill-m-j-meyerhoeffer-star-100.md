@@ -5,6 +5,7 @@ town: ["Goods Mill"]
 merchant: "M. J. Meyerhoeffer (Star)"
 denomination: "$1.00"
 style: "Round Aluminum"
+rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/goods-mill-m-j-meyerhoeffer-star-100/goods-mill-m-j-meyerhoeffer-star-100-obverse.jpg

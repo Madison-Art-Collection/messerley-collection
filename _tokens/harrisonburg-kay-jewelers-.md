@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "Kay Jewelers"
 denomination: "$10.00"
 style: "Round Bronze"
+rarity: "100 UP"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-kay-jewelers-/harrisonburg-kay-jewelers--obverse.jpg

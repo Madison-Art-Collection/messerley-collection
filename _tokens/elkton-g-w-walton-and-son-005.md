@@ -5,8 +5,8 @@ town: ["Elkton"]
 merchant: "G. W. Walton & Son"
 denomination: "$0.05"
 style: "Octagon Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman W5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/elkton-g-w-walton-and-son-005/elkton-g-w-walton-and-son-005-obverse.jpg
 image_reverse: tokens/elkton-g-w-walton-and-son-005/elkton-g-w-walton-and-son-005-reverse.jpg

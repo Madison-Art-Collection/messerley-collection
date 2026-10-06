@@ -5,8 +5,8 @@ town: ["Grottoes"]
 merchant: "Kaylor & Co."
 denomination: "$0.50"
 style: "Round Aluminum"
+rarity: "5-10 KNOWN"
 catalog_reference: "Schenkman K5-50"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/grottoes-kaylor-and-co-050/grottoes-kaylor-and-co-050-obverse.jpg
 image_reverse: tokens/grottoes-kaylor-and-co-050/grottoes-kaylor-and-co-050-reverse.jpg

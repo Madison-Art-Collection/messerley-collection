@@ -5,8 +5,8 @@ town: ["Lilly"]
 merchant: "W. H. Sipe"
 denomination: "$0.25"
 style: "Round Aluminum"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman S11-25"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/lilly-w-h-sipe-025-2/lilly-w-h-sipe-025-2-obverse.jpg
 image_reverse: tokens/lilly-w-h-sipe-025-2/lilly-w-h-sipe-025-2-reverse.jpg

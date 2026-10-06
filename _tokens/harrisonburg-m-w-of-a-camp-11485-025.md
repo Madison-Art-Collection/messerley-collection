@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "M. W. of A. Camp #11485"
 denomination: "$0.25"
 style: "Round Aluminum"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman M15-25"
-schenkman_rarity: "C"
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-m-w-of-a-camp-11485-025/harrisonburg-m-w-of-a-camp-11485-025-obverse.jpg
 image_reverse: tokens/harrisonburg-m-w-of-a-camp-11485-025/harrisonburg-m-w-of-a-camp-11485-025-reverse.jpg

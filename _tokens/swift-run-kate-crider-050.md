@@ -5,8 +5,8 @@ town: ["Swift Run"]
 merchant: "Kate Crider"
 denomination: "$0.50"
 style: "Round Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman C5-50"
-schenkman_rarity: "C"
 match_tier: fuzzy-denom
 image_obverse: tokens/swift-run-kate-crider-050/swift-run-kate-crider-050-obverse.jpg
 image_reverse: tokens/swift-run-kate-crider-050/swift-run-kate-crider-050-reverse.jpg

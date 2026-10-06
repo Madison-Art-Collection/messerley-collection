@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "State Teachers College"
 denomination: "$0.01"
 style: "Round Cardboard"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman S5-1"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-gry-grn-state-teachers-college-001/harrisonburg-gry-grn-state-teachers-college-001-obverse.jpg
 image_reverse: tokens/harrisonburg-gry-grn-state-teachers-college-001/harrisonburg-gry-grn-state-teachers-college-001-reverse.jpg

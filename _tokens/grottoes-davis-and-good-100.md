@@ -5,6 +5,7 @@ town: ["Grottoes"]
 merchant: "Davis & Good"
 denomination: "$1.00"
 style: "Round Bronze"
+rarity: "25-50 KNOWN"
 catalog_reference: "Schenkman D5-100"
 match_tier: exact
 image_obverse: tokens/grottoes-davis-and-good-100/grottoes-davis-and-good-100-obverse.jpg

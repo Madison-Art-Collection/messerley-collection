@@ -5,6 +5,7 @@ town: ["Broadway"]
 merchant: "S.S. / S. M. Williams"
 denomination: "DRINK OR CIGAR"
 style: "Round Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/broadway-ss-and-s-m-williams-drink-or-cigar/broadway-ss-and-s-m-williams-drink-or-cigar-obverse.jpg

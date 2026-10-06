@@ -5,8 +5,8 @@ town: ["Zenda"]
 merchant: "C. E. Long"
 denomination: "$0.25"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman L5-25"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/zenda-c-e-long-025/zenda-c-e-long-025-obverse.jpg
 image_reverse: tokens/zenda-c-e-long-025/zenda-c-e-long-025-reverse.jpg

@@ -5,8 +5,8 @@ town: ["Dayton"]
 merchant: "G. N. Thacker & Co."
 denomination: "$0.05"
 style: "Round Aluminum"
+rarity: "5-10 KNOWN"
 catalog_reference: "Schenkman T5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/dayton-g-n-thacker-and-co-005/dayton-g-n-thacker-and-co-005-obverse.jpg
 image_reverse: tokens/dayton-g-n-thacker-and-co-005/dayton-g-n-thacker-and-co-005-reverse.jpg

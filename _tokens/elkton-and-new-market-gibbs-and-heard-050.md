@@ -5,8 +5,8 @@ town: ["Elkton", "New Market"]
 merchant: "Gibbs & Heard"
 denomination: "$0.50"
 style: "Round Bronze"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman G5-50"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/elkton-and-new-market-gibbs-and-heard-050/elkton-and-new-market-gibbs-and-heard-050-obverse.jpg
 image_reverse: tokens/elkton-and-new-market-gibbs-and-heard-050/elkton-and-new-market-gibbs-and-heard-050-reverse.jpg

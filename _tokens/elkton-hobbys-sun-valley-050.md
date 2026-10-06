@@ -5,6 +5,7 @@ town: ["Elkton"]
 merchant: "Hobby's Sun Valley"
 denomination: "$0.50"
 style: "Rectangular Cardboard"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/elkton-hobbys-sun-valley-050/elkton-hobbys-sun-valley-050-obverse.jpg

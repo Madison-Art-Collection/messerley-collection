@@ -5,6 +5,7 @@ town: ["Timberville"]
 merchant: "D. S. Wampler"
 denomination: "$0.05"
 style: "Round Aluminum"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/timberville-d-s-wampler-005/timberville-d-s-wampler-005-obverse.jpg

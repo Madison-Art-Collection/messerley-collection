@@ -5,8 +5,8 @@ town: ["Port Republic"]
 merchant: "R. M. Wagner & Bro."
 denomination: "$0.01"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman W5-1"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-r-m-wagner-and-bro-001/port-republic-r-m-wagner-and-bro-001-obverse.jpg
 image_reverse: tokens/port-republic-r-m-wagner-and-bro-001/port-republic-r-m-wagner-and-bro-001-reverse.jpg

@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "Veteran's Club"
 denomination: "$0.05"
 style: "Octagon Aluminum"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman V10-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-veterans-club-005/harrisonburg-veterans-club-005-obverse.jpg
 image_reverse: tokens/harrisonburg-veterans-club-005/harrisonburg-veterans-club-005-reverse.jpg

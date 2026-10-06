@@ -5,8 +5,8 @@ town: ["Rockingham County"]
 merchant: "H. H. Heatwole"
 denomination: "$0.01"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman H5-1"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/rockingham-h-h-heatwole-001/rockingham-h-h-heatwole-001-obverse.jpg
 image_reverse: tokens/rockingham-h-h-heatwole-001/rockingham-h-h-heatwole-001-reverse.jpg

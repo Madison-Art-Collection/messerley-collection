@@ -5,8 +5,8 @@ town: ["Tenth Legion"]
 merchant: "Joseph Smith & Bro."
 denomination: "$0.05"
 style: "Octagon Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman S5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/tenth-legion-joseph-smith-and-bro-005/tenth-legion-joseph-smith-and-bro-005-obverse.jpg
 image_reverse: tokens/tenth-legion-joseph-smith-and-bro-005/tenth-legion-joseph-smith-and-bro-005-reverse.jpg

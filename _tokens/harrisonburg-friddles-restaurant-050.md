@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "Friddle's Restaurant"
 denomination: "$0.50"
 style: "Odd-shaped Bronze"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman F15-50"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-friddles-restaurant-050/harrisonburg-friddles-restaurant-050-obverse.jpg
 image_reverse: tokens/harrisonburg-friddles-restaurant-050/harrisonburg-friddles-restaurant-050-reverse.jpg

@@ -5,6 +5,7 @@ town: ["Pleasant Valley"]
 merchant: "T. J. Johnson"
 denomination: "$0.05"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/pleasant-valley-t-j-johnson-005/pleasant-valley-t-j-johnson-005-obverse.jpg

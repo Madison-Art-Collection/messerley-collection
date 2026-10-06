@@ -5,6 +5,7 @@ town: ["Port Republic"]
 merchant: "M. A. Davis (1ct on Reverse)"
 denomination: "$0.01"
 style: "Round Bronze"
+rarity: "5-10 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/port-republic-m-a-davis-1ct-on-reverse-001/port-republic-m-a-davis-1ct-on-reverse-001-obverse.jpg

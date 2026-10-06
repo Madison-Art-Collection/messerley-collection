@@ -5,6 +5,7 @@ town: ["North River"]
 merchant: "North River High School"
 denomination: "LUNCH"
 style: "Round Aluminum"
+rarity: "25-50 KNOWN"
 catalog_reference:
 match_tier: special-merchant-only
 image_obverse: tokens/north-river-north-river-high-school-lunch/north-river-north-river-high-school-lunch-obverse.jpg

@@ -5,8 +5,8 @@ town: ["Mt. Crawford"]
 merchant: "Lago and Ballentine"
 denomination: "$1.00"
 style: "Octagon Copper"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman L5-100"
-schenkman_rarity: "B"
 match_tier: fuzzy-denom
 image_obverse: tokens/mt-crawford-lago-and-ballentine-100/mt-crawford-lago-and-ballentine-100-obverse.jpg
 image_reverse: tokens/mt-crawford-lago-and-ballentine-100/mt-crawford-lago-and-ballentine-100-reverse.jpg

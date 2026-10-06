@@ -5,6 +5,7 @@ town: ["Hinton"]
 merchant: "Shiflet Service Station"
 denomination: "$0.30"
 style: "Rectangular Cardboard"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/hinton-shiflet-service-station-030/hinton-shiflet-service-station-030-obverse.jpg

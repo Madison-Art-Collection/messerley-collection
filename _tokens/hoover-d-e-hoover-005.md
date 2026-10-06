@@ -5,8 +5,8 @@ town: ["Hoover"]
 merchant: "D. E. Hoover"
 denomination: "$0.05"
 style: "Scalloped Bronze"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman H5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/hoover-d-e-hoover-005/hoover-d-e-hoover-005-obverse.jpg
 image_reverse: tokens/hoover-d-e-hoover-005/hoover-d-e-hoover-005-reverse.jpg

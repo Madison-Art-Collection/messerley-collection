@@ -63,14 +63,14 @@ layout: default
           <dd>{{ page.style }}</dd>
         {% endif %}
 
+        {% if page.rarity %}
+          <dt>Rarity:</dt>
+          <dd>{{ page.rarity }}</dd>
+        {% endif %}
+
         {% if page.catalog_reference %}
           <dt>Reference:</dt>
           <dd>{{ page.catalog_reference }}</dd>
-        {% endif %}
-
-        {% if page.schenkman_rarity %}
-          <dt>Schenkman rarity:</dt>
-          <dd>{{ page.schenkman_rarity }}</dd>
         {% endif %}
       </dl>
     </div>

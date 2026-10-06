@@ -5,6 +5,7 @@ town: ["Meyerhoeffers Store"]
 merchant: "F. W. Meyerhoeffer"
 denomination: "$0.25"
 style: "Scalloped Oval"
+rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/meyerhoeffers-store-f-w-meyerhoeffer-025/meyerhoeffers-store-f-w-meyerhoeffer-025-obverse.jpg

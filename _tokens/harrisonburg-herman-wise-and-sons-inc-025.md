@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "Herman Wise & Sons Inc."
 denomination: "$0.25"
 style: "Rectangular Cardboard"
+rarity: "50-100 KNOWN"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/harrisonburg-herman-wise-and-sons-inc-025/harrisonburg-herman-wise-and-sons-inc-025-obverse.jpg

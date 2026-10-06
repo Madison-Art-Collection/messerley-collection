@@ -5,8 +5,8 @@ town: ["Furnace"]
 merchant: "Eppard's Bargain Store"
 denomination: "$0.10"
 style: "Nickel-Plated Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman E5-10"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/furnace-eppards-bargain-store-010/furnace-eppards-bargain-store-010-obverse.jpg
 image_reverse: tokens/furnace-eppards-bargain-store-010/furnace-eppards-bargain-store-010-reverse.jpg

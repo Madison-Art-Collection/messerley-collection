@@ -5,6 +5,7 @@ town: ["Athlone"]
 merchant: "J. R. Phillips & Co."
 denomination: "$0.01"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/athlone-phillips-001/athlone-phillips-001-obverse.jpg

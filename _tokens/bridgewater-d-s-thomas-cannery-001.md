@@ -5,8 +5,8 @@ town: ["Bridgewater"]
 merchant: "D. S. Thomas Cannery"
 denomination: "$0.01"
 style: "Round Aluminum"
+rarity: "25-50 KNOWN"
 catalog_reference: "Schenkman T5-1"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/bridgewater-d-s-thomas-cannery-001/bridgewater-d-s-thomas-cannery-001-obverse.jpg
 image_reverse: tokens/bridgewater-d-s-thomas-cannery-001/bridgewater-d-s-thomas-cannery-001-reverse.jpg

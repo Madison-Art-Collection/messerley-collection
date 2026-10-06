@@ -5,8 +5,8 @@ town: ["McGaheysville"]
 merchant: "Harmon & Harmon"
 denomination: "$0.01"
 style: "Round Bronze"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman H5-1"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mcgaheysville-harmon-and-harmon-001/mcgaheysville-harmon-and-harmon-001-obverse.jpg
 image_reverse: tokens/mcgaheysville-harmon-and-harmon-001/mcgaheysville-harmon-and-harmon-001-reverse.jpg

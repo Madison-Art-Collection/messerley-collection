@@ -5,8 +5,8 @@ town: ["Dayton"]
 merchant: "S. L. Cootes / G. W. Hedrick & Co."
 denomination: "$0.05"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman C10-5"
-schenkman_rarity: "B"
 match_tier: fuzzy-denom
 image_obverse: tokens/dayton-cootes-hedrick-005/dayton-cootes-hedrick-005-obverse.jpg
 image_reverse: tokens/dayton-cootes-hedrick-005/dayton-cootes-hedrick-005-reverse.jpg

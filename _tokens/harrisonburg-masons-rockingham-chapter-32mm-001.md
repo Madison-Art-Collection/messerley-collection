@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "Rockingham Chapter 32MM"
 denomination: "$0.01"
 style: "Round Copper"
+rarity: "100 UP"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/harrisonburg-masons-rockingham-chapter-32mm-001/harrisonburg-masons-rockingham-chapter-32mm-001-obverse.jpg

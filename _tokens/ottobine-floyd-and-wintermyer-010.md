@@ -5,8 +5,8 @@ town: ["Ottobine"]
 merchant: "Floyd & Wintermyer"
 denomination: "$0.10"
 style: "Round Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman F5-10"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/ottobine-floyd-and-wintermyer-010/ottobine-floyd-and-wintermyer-010-obverse.jpg
 image_reverse: tokens/ottobine-floyd-and-wintermyer-010/ottobine-floyd-and-wintermyer-010-reverse.jpg

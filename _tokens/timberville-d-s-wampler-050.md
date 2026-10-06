@@ -5,6 +5,7 @@ town: ["Timberville"]
 merchant: "D. S. Wampler"
 denomination: "$0.50"
 style: "Round Bronze"
+rarity: "LESS THAN 5"
 catalog_reference:
 match_tier: exact
 image_obverse: tokens/timberville-d-s-wampler-050/timberville-d-s-wampler-050-obverse.jpg

@@ -5,8 +5,8 @@ town: ["Mauzy"]
 merchant: "J. K. Mauzy & Son"
 denomination: "$0.01"
 style: "Round Nickel"
+rarity: "25-50 KNOWN"
 catalog_reference: "Schenkman M5-1"
-schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/mauzy-j-k-mauzy-and-son-001/mauzy-j-k-mauzy-and-son-001-obverse.jpg
 image_reverse: tokens/mauzy-j-k-mauzy-and-son-001/mauzy-j-k-mauzy-and-son-001-reverse.jpg

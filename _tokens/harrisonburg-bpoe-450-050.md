@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "B.P.O.E. #450"
 denomination: "$0.50"
 style: "Round Fiber"
+rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-bpoe-450-050/harrisonburg-bpoe-450-050-obverse.jpg

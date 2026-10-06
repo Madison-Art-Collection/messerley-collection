@@ -5,8 +5,8 @@ town: ["McGaheysville"]
 merchant: "W. R. Hoffman"
 denomination: "$0.10"
 style: "Round Aluminum"
+rarity: "ONLY 1 KNOWN"
 catalog_reference: "Schenkman H20-10"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mcgaheysville-w-r-hoffman-010/mcgaheysville-w-r-hoffman-010-obverse.jpg
 image_reverse: tokens/mcgaheysville-w-r-hoffman-010/mcgaheysville-w-r-hoffman-010-reverse.jpg

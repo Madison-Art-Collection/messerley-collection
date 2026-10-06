@@ -5,8 +5,8 @@ town: ["McGaheysville"]
 merchant: "Mauzy & Armentrout"
 denomination: "$0.05"
 style: "Octagon Bronze (5c)"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman M6-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mcgaheysville-mauzy-and-armentrout-005/mcgaheysville-mauzy-and-armentrout-005-obverse.jpg
 image_reverse: tokens/mcgaheysville-mauzy-and-armentrout-005/mcgaheysville-mauzy-and-armentrout-005-reverse.jpg

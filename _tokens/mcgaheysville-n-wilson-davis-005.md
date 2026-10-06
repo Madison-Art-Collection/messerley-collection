@@ -5,8 +5,8 @@ town: ["McGaheysville"]
 merchant: "N. Wilson Davis"
 denomination: "$0.05"
 style: "Square Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman D5-5"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mcgaheysville-n-wilson-davis-005/mcgaheysville-n-wilson-davis-005-obverse.jpg
 image_reverse: tokens/mcgaheysville-n-wilson-davis-005/mcgaheysville-n-wilson-davis-005-reverse.jpg

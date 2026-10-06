@@ -5,8 +5,8 @@ town: ["Montevideo"]
 merchant: "Gochenour Brothers"
 denomination: "$0.25"
 style: "Round Aluminum (Dia.)"
+rarity: "50-100 KNOWN"
 catalog_reference: "Schenkman G5-25"
-schenkman_rarity: "A"
 match_tier: exact
 image_obverse: tokens/montevideo-gochenour-brothers-025/montevideo-gochenour-brothers-025-obverse.jpg
 image_reverse: tokens/montevideo-gochenour-brothers-025/montevideo-gochenour-brothers-025-reverse.jpg

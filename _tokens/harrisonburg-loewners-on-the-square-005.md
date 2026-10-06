@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "Loewner's On The Square"
 denomination: "$0.05"
 style: "Round Aluminum"
+rarity: "LESS THAN 5"
 catalog_reference: "Schenkman L5-5"
-schenkman_rarity: "B"
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-loewners-on-the-square-005/harrisonburg-loewners-on-the-square-005-obverse.jpg
 image_reverse: tokens/harrisonburg-loewners-on-the-square-005/harrisonburg-loewners-on-the-square-005-reverse.jpg

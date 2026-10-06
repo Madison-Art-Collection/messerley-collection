@@ -5,6 +5,7 @@ town: ["Harrisonburg"]
 merchant: "St. Joseph Chapter #45"
 denomination: "$0.10"
 style: "Round Copper"
+rarity: "10-25 KNOWN"
 catalog_reference:
 match_tier: manual
 image_obverse: tokens/harrisonburg-masons-st-joseph-chapter-45-010/harrisonburg-masons-st-joseph-chapter-45-010-obverse.jpg

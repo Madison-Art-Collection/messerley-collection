@@ -5,8 +5,8 @@ town: ["Harrisonburg"]
 merchant: "C. B. Rhodes"
 denomination: "$1.00"
 style: "Round Aluminum"
+rarity: "10-25 KNOWN"
 catalog_reference: "Schenkman R5-100"
-schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-c-b-rhodes-100/harrisonburg-c-b-rhodes-100-obverse.jpg
 image_reverse: tokens/harrisonburg-c-b-rhodes-100/harrisonburg-c-b-rhodes-100-reverse.jpg

@@ -453,11 +453,6 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/edom-j-w-myers-and-co-500/";
-            },},{id: "tokens-10-token-22-zz-gibbs-amp-heard-elkton-amp-new-market",
-          title: '10¢ Token — 22-ZZ / Gibbs &amp;amp; Heard, Elkton &amp;amp; New Market',
-          description: "",
-          section: "Tokens",handler: () => {
-              window.location.href = "/messerley-collection/tokens/elkton-and-new-market-22-zz-and-gibbs-and-heard-010/";
             },},{id: "tokens-token-gibbs-amp-heard-elkton-amp-new-market",
           title: 'Token — Gibbs &amp;amp; Heard, Elkton &amp;amp; New Market',
           description: "",
@@ -478,6 +473,11 @@ ninja.data = [{
           description: "",
           section: "Tokens",handler: () => {
               window.location.href = "/messerley-collection/tokens/elkton-and-new-market-gibbs-and-heard-005/";
+            },},{id: "tokens-10-token-countermarked-22-and-zz-gibbs-amp-heard-elkton-amp-new-market",
+          title: '10¢ Token (Countermarked 22 and ZZ) — Gibbs &amp;amp; Heard, Elkton &amp;amp; New...',
+          description: "",
+          section: "Tokens",handler: () => {
+              window.location.href = "/messerley-collection/tokens/elkton-and-new-market-gibbs-and-heard-010/";
             },},{id: "tokens-15-token-gibbs-amp-heard-elkton-amp-new-market",
           title: '15¢ Token — Gibbs &amp;amp; Heard, Elkton &amp;amp; New Market',
           description: "",

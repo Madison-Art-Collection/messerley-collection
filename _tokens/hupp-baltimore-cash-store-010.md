@@ -5,7 +5,8 @@ town: ["Hupp"]
 merchant: "Baltimore Cash Store"
 denomination: "$0.10"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman B5-10"
+schenkman_rarity: "C"
 match_tier: manual
 image_obverse: tokens/hupp-baltimore-cash-store-010/hupp-baltimore-cash-store-010-obverse.jpg
 image_reverse: tokens/hupp-baltimore-cash-store-010/hupp-baltimore-cash-store-010-reverse.jpg

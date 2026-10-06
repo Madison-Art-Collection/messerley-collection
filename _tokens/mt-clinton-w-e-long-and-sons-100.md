@@ -5,7 +5,8 @@ town: ["Mt. Clinton"]
 merchant: "W. E. Long & Sons"
 denomination: "$1.00"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman L5-100"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mt-clinton-w-e-long-and-sons-100/mt-clinton-w-e-long-and-sons-100-obverse.jpg
 image_reverse: tokens/mt-clinton-w-e-long-and-sons-100/mt-clinton-w-e-long-and-sons-100-reverse.jpg

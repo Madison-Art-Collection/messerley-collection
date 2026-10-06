@@ -5,7 +5,8 @@ town: ["Genoa"]
 merchant: "Custer's Dept. Store"
 denomination: "$0.10"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman C5-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/genoa-custers-dept-store-010/genoa-custers-dept-store-010-obverse.jpg
 image_reverse: tokens/genoa-custers-dept-store-010/genoa-custers-dept-store-010-reverse.jpg

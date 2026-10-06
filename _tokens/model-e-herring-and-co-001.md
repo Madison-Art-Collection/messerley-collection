@@ -5,7 +5,8 @@ town: ["Model"]
 merchant: "E. Herring & Co."
 denomination: "$0.01"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman H5-1"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/model-e-herring-and-co-001/model-e-herring-and-co-001-obverse.jpg
 image_reverse: tokens/model-e-herring-and-co-001/model-e-herring-and-co-001-reverse.jpg

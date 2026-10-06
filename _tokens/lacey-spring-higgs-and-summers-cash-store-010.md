@@ -5,7 +5,8 @@ town: ["Lacey Spring"]
 merchant: "Higgs & Summers Cash Store"
 denomination: "$0.10"
 style: "Octagon Nickel"
-catalog_reference:
+catalog_reference: "Schenkman H5-10"
+schenkman_rarity: "B"
 match_tier: fuzzy-denom
 image_obverse: tokens/lacey-spring-higgs-and-summers-cash-store-010/lacey-spring-higgs-and-summers-cash-store-010-obverse.jpg
 image_reverse: tokens/lacey-spring-higgs-and-summers-cash-store-010/lacey-spring-higgs-and-summers-cash-store-010-reverse.jpg

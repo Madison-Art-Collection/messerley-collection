@@ -5,7 +5,8 @@ town: ["Broadway"]
 merchant: "Broadway Bakery"
 denomination: "LOAF"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman B5"
+schenkman_rarity: "B"
 match_tier: special-merchant-only
 image_obverse: tokens/broadway-bakery-loaf/broadway-bakery-loaf-obverse.jpg
 image_reverse: tokens/broadway-bakery-loaf/broadway-bakery-loaf-reverse.jpg

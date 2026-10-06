@@ -5,7 +5,8 @@ town: ["Timber Ridge"]
 merchant: "C. D. Meyerhoeffer"
 denomination: "$0.05"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman M5-5"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/timber-ridge-c-d-meyerhoeffer-005/timber-ridge-c-d-meyerhoeffer-005-obverse.jpg
 image_reverse: tokens/timber-ridge-c-d-meyerhoeffer-005/timber-ridge-c-d-meyerhoeffer-005-reverse.jpg

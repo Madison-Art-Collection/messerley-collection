@@ -5,7 +5,8 @@ town: ["Harrisonburg"]
 merchant: "B.P.O.E. / Elk Head"
 denomination: "$0.05"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman E6-5"
+schenkman_rarity: "A"
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-bpoe-and-elk-head-005/harrisonburg-bpoe-and-elk-head-005-obverse.jpg
 image_reverse: tokens/harrisonburg-bpoe-and-elk-head-005/harrisonburg-bpoe-and-elk-head-005-reverse.jpg

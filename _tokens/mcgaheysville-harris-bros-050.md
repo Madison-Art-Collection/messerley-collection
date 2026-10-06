@@ -5,7 +5,8 @@ town: ["McGaheysville"]
 merchant: "Harris Bros."
 denomination: "$0.50"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman H10-50"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mcgaheysville-harris-bros-050/mcgaheysville-harris-bros-050-obverse.jpg
 image_reverse: tokens/mcgaheysville-harris-bros-050/mcgaheysville-harris-bros-050-reverse.jpg

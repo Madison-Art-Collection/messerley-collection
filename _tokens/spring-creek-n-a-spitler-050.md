@@ -5,7 +5,8 @@ town: ["Spring Creek"]
 merchant: "N. A. Spitler"
 denomination: "$0.50"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman S5-50"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/spring-creek-n-a-spitler-050/spring-creek-n-a-spitler-050-obverse.jpg
 image_reverse: tokens/spring-creek-n-a-spitler-050/spring-creek-n-a-spitler-050-reverse.jpg

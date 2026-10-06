@@ -5,7 +5,8 @@ town: ["Cross Keys", "Penn Laird"]
 merchant: "Thos. P. Yager Inc."
 denomination: "$0.10"
 style: "Round Nickel"
-catalog_reference:
+catalog_reference: "Schenkman Y6-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-010/cross-keys-and-penn-laird-thos-p-yager-inc-010-obverse.jpg
 image_reverse: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-010/cross-keys-and-penn-laird-thos-p-yager-inc-010-reverse.jpg

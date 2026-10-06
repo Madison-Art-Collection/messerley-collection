@@ -5,7 +5,8 @@ town: ["Montezuma"]
 merchant: "A. B. Glick"
 denomination: "$0.05"
 style: "Shield Bronze"
-catalog_reference:
+catalog_reference: "Schenkman G5-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/montezuma-a-b-glick-005/montezuma-a-b-glick-005-obverse.jpg
 image_reverse: tokens/montezuma-a-b-glick-005/montezuma-a-b-glick-005-reverse.jpg

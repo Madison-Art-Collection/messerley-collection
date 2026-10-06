@@ -5,7 +5,7 @@ town: ["Grottoes"]
 merchant: "Davis & McClung"
 denomination: "$0.50"
 style: "Scalloped Bronze"
-catalog_reference:
+catalog_reference: "Schenkman D10-50"
 match_tier: exact
 image_obverse: tokens/grottoes-davis-and-mcclung-050/grottoes-davis-and-mcclung-050-obverse.jpg
 image_reverse: tokens/grottoes-davis-and-mcclung-050/grottoes-davis-and-mcclung-050-reverse.jpg

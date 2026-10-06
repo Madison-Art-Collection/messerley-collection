@@ -5,7 +5,8 @@ town: ["Lynnwood"]
 merchant: "Lynnwood Mercantile Co"
 denomination: "$0.01"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman L5-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/lynnwood-lynnwood-mercantile-co-001/lynnwood-lynnwood-mercantile-co-001-obverse.jpg
 image_reverse: tokens/lynnwood-lynnwood-mercantile-co-001/lynnwood-lynnwood-mercantile-co-001-reverse.jpg

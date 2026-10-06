@@ -5,7 +5,8 @@ town: ["Furnace"]
 merchant: "Eppard's Bargain Store"
 denomination: "$0.01"
 style: "Round Copper"
-catalog_reference:
+catalog_reference: "Schenkman E5-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/furnace-eppards-bargain-store-001/furnace-eppards-bargain-store-001-obverse.jpg
 image_reverse: tokens/furnace-eppards-bargain-store-001/furnace-eppards-bargain-store-001-reverse.jpg

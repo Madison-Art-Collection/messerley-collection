@@ -5,7 +5,8 @@ town: ["Mt. Crawford"]
 merchant: "A. S. Houff"
 denomination: "$0.01"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman H5-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mt-crawford-a-s-houff-001/mt-crawford-a-s-houff-001-obverse.jpg
 image_reverse: tokens/mt-crawford-a-s-houff-001/mt-crawford-a-s-houff-001-reverse.jpg

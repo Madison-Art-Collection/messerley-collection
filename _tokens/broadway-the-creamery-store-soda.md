@@ -5,7 +5,8 @@ town: ["Broadway"]
 merchant: "The Creamery Store"
 denomination: "SODA"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman C10"
+schenkman_rarity: "B"
 match_tier: special-merchant-only
 image_obverse: tokens/broadway-the-creamery-store-soda/broadway-the-creamery-store-soda-obverse.jpg
 image_reverse: tokens/broadway-the-creamery-store-soda/broadway-the-creamery-store-soda-reverse.jpg

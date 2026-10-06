@@ -5,7 +5,8 @@ town: ["Elkton"]
 merchant: "Double-Cola"
 denomination: "$0.05"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman D5-5"
+schenkman_rarity: "A"
 match_tier: fuzzy-denom
 image_obverse: tokens/elkton-double-cola-005/elkton-double-cola-005-obverse.jpg
 image_reverse: tokens/elkton-double-cola-005/elkton-double-cola-005-reverse.jpg

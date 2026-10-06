@@ -5,7 +5,8 @@ town: ["Tunis"]
 merchant: "J. H. Custer"
 denomination: "$0.25"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman C5-25"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/tunis-j-h-custer-025/tunis-j-h-custer-025-obverse.jpg
 image_reverse: tokens/tunis-j-h-custer-025/tunis-j-h-custer-025-reverse.jpg

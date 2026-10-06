@@ -5,7 +5,8 @@ town: ["Keezletown"]
 merchant: "A. D. Bertram & Co."
 denomination: "$0.05"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman B5-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/keezletown-a-d-bertram-and-co-005/keezletown-a-d-bertram-and-co-005-obverse.jpg
 image_reverse: tokens/keezletown-a-d-bertram-and-co-005/keezletown-a-d-bertram-and-co-005-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Spring Creek"]
 merchant: "L. P. Coyner"
 denomination: "$0.10"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman C10-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/spring-creek-l-p-coyner-010/spring-creek-l-p-coyner-010-obverse.jpg
 image_reverse: tokens/spring-creek-l-p-coyner-010/spring-creek-l-p-coyner-010-reverse.jpg

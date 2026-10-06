@@ -5,7 +5,8 @@ town: ["Harrisonburg"]
 merchant: "H. J. O'Donnell"
 denomination: "$0.05"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman O15-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-h-j-odonnell-005/harrisonburg-h-j-odonnell-005-obverse.jpg
 image_reverse: tokens/harrisonburg-h-j-odonnell-005/harrisonburg-h-j-odonnell-005-reverse.jpg

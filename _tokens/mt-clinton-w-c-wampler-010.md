@@ -5,7 +5,8 @@ town: ["Mt. Clinton"]
 merchant: "W. C. Wampler"
 denomination: "$0.10"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman W5-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/mt-clinton-w-c-wampler-010/mt-clinton-w-c-wampler-010-obverse.jpg
 image_reverse: tokens/mt-clinton-w-c-wampler-010/mt-clinton-w-c-wampler-010-reverse.jpg

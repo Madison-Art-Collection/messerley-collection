@@ -5,7 +5,8 @@ town: ["Cross Keys"]
 merchant: "G. W. Tyler"
 denomination: "$0.50"
 style: "Octagon Bronze"
-catalog_reference:
+catalog_reference: "Schenkman T5-50"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/cross-keys-g-w-tyler-050/cross-keys-g-w-tyler-050-obverse.jpg
 image_reverse: tokens/cross-keys-g-w-tyler-050/cross-keys-g-w-tyler-050-reverse.jpg

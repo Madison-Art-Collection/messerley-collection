@@ -5,7 +5,8 @@ town: ["Harrisonburg"]
 merchant: "Miller's Bargain Store"
 denomination: "$0.02"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman M10-2"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-millers-bargain-store-002/harrisonburg-millers-bargain-store-002-obverse.jpg
 image_reverse: tokens/harrisonburg-millers-bargain-store-002/harrisonburg-millers-bargain-store-002-reverse.jpg

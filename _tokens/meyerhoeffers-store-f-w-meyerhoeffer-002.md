@@ -5,7 +5,8 @@ town: ["Meyerhoeffers Store"]
 merchant: "F. W. Meyerhoeffer"
 denomination: "$0.02"
 style: "Octagon Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M5-2"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/meyerhoeffers-store-f-w-meyerhoeffer-002/meyerhoeffers-store-f-w-meyerhoeffer-002-obverse.jpg
 image_reverse: tokens/meyerhoeffers-store-f-w-meyerhoeffer-002/meyerhoeffers-store-f-w-meyerhoeffer-002-reverse.jpg

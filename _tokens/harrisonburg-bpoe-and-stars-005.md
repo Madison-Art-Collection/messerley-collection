@@ -5,7 +5,8 @@ town: ["Harrisonburg"]
 merchant: "B.P.O.E. / Stars"
 denomination: "$0.05"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman E5-5a"
+schenkman_rarity: "A"
 match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-bpoe-and-stars-005/harrisonburg-bpoe-and-stars-005-obverse.jpg
 image_reverse: tokens/harrisonburg-bpoe-and-stars-005/harrisonburg-bpoe-and-stars-005-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Dayton"]
 merchant: "G. W. Hedrick & Co."
 denomination: "$0.05"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman H5-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/dayton-g-w-hedrick-and-co-005/dayton-g-w-hedrick-and-co-005-obverse.jpg
 image_reverse: tokens/dayton-g-w-hedrick-and-co-005/dayton-g-w-hedrick-and-co-005-reverse.jpg

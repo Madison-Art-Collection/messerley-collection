@@ -5,7 +5,8 @@ town: ["Friedens"]
 merchant: "J. E. Shaver (Joseph)"
 denomination: "$0.25"
 style: "Scalloped Bronze"
-catalog_reference:
+catalog_reference: "Schenkman S5-25"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/friedens-j-e-shaver-joseph-025/friedens-j-e-shaver-joseph-025-obverse.jpg
 image_reverse: tokens/friedens-j-e-shaver-joseph-025/friedens-j-e-shaver-joseph-025-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Tunis"]
 merchant: "J. H. Custer (1 ct. in trade)"
 denomination: "$0.01"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman C6-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/tunis-j-h-custer-1-ct-in-trade-001/tunis-j-h-custer-1-ct-in-trade-001-obverse.jpg
 image_reverse: tokens/tunis-j-h-custer-1-ct-in-trade-001/tunis-j-h-custer-1-ct-in-trade-001-reverse.jpg

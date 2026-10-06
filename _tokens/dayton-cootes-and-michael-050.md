@@ -5,7 +5,8 @@ town: ["Dayton"]
 merchant: "Cootes & Michael"
 denomination: "$0.50"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman C5-50"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/dayton-cootes-and-michael-050/dayton-cootes-and-michael-050-obverse.jpg
 image_reverse: tokens/dayton-cootes-and-michael-050/dayton-cootes-and-michael-050-reverse.jpg

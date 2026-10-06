@@ -5,7 +5,8 @@ town: ["Edom"]
 merchant: "J. W. Myers & Co."
 denomination: "$1.00"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M5-100"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/edom-j-w-myers-and-co-100/edom-j-w-myers-and-co-100-obverse.jpg
 image_reverse: tokens/edom-j-w-myers-and-co-100/edom-j-w-myers-and-co-100-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Port Republic"]
 merchant: "Jno. F. Miller"
 denomination: "$0.10"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M16-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-jno-f-miller-010/port-republic-jno-f-miller-010-obverse.jpg
 image_reverse: tokens/port-republic-jno-f-miller-010/port-republic-jno-f-miller-010-reverse.jpg

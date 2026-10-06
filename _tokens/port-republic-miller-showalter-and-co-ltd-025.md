@@ -5,7 +5,8 @@ town: ["Port Republic"]
 merchant: "Miller Showalter & Co. Ltd"
 denomination: "$0.25"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M20-25"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-miller-showalter-and-co-ltd-025/port-republic-miller-showalter-and-co-ltd-025-obverse.jpg
 image_reverse: tokens/port-republic-miller-showalter-and-co-ltd-025/port-republic-miller-showalter-and-co-ltd-025-reverse.jpg

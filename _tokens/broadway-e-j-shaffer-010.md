@@ -5,7 +5,8 @@ town: ["Broadway"]
 merchant: "E. J. Shaffer"
 denomination: "$0.10"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman S5-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/broadway-e-j-shaffer-010/broadway-e-j-shaffer-010-obverse.jpg
 image_reverse: tokens/broadway-e-j-shaffer-010/broadway-e-j-shaffer-010-reverse.jpg

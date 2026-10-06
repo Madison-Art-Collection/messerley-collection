@@ -5,7 +5,8 @@ town: ["Goods Mill"]
 merchant: "M. J. Meyerhoeffer Jr."
 denomination: "$0.01"
 style: "Round Nickel"
-catalog_reference:
+catalog_reference: "Schenkman M11-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/goods-mill-m-j-meyerhoeffer-jr-001/goods-mill-m-j-meyerhoeffer-jr-001-obverse.jpg
 image_reverse: tokens/goods-mill-m-j-meyerhoeffer-jr-001/goods-mill-m-j-meyerhoeffer-jr-001-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Bridgewater"]
 merchant: "W. M. Miller"
 denomination: "4 QT"
 style: "Square Bronze"
-catalog_reference:
+catalog_reference: "Schenkman M5-4"
+schenkman_rarity: "A"
 match_tier: exact
 image_obverse: tokens/bridgewater-w-m-miller-4-qt/bridgewater-w-m-miller-4-qt-obverse.jpg
 image_reverse: tokens/bridgewater-w-m-miller-4-qt/bridgewater-w-m-miller-4-qt-reverse.jpg

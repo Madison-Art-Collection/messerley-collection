@@ -5,7 +5,8 @@ town: ["North River"]
 merchant: "Wine & Burgess"
 denomination: "$0.01"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman W5-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/north-river-wine-and-burgess-001/north-river-wine-and-burgess-001-obverse.jpg
 image_reverse: tokens/north-river-wine-and-burgess-001/north-river-wine-and-burgess-001-reverse.jpg

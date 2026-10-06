@@ -5,7 +5,8 @@ town: ["Harrisonburg"]
 merchant: "W. E. Friddle's Arcade"
 denomination: "$0.05"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman F20-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/harrisonburg-w-e-friddles-arcade-005/harrisonburg-w-e-friddles-arcade-005-obverse.jpg
 image_reverse: tokens/harrisonburg-w-e-friddles-arcade-005/harrisonburg-w-e-friddles-arcade-005-reverse.jpg

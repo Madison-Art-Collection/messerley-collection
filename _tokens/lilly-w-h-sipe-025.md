@@ -5,7 +5,8 @@ town: ["Lilly"]
 merchant: "W. H. Sipe"
 denomination: "$0.25"
 style: "Round Nickel"
-catalog_reference:
+catalog_reference: "Schenkman S10-25"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/lilly-w-h-sipe-025/lilly-w-h-sipe-025-obverse.jpg
 image_reverse: tokens/lilly-w-h-sipe-025/lilly-w-h-sipe-025-reverse.jpg

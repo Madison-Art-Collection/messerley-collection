@@ -5,7 +5,8 @@ town: ["Bridgewater"]
 merchant: "J. W. Click & Co."
 denomination: "$0.10"
 style: "Oval Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman C5-10"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/bridgewater-j-w-click-and-co-010/bridgewater-j-w-click-and-co-010-obverse.jpg
 image_reverse: tokens/bridgewater-j-w-click-and-co-010/bridgewater-j-w-click-and-co-010-reverse.jpg

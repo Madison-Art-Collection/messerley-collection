@@ -5,7 +5,8 @@ town: ["Goods Mill"]
 merchant: "M. J. Meyerhoeffer"
 denomination: "$0.05"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M5-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/goods-mill-m-j-meyerhoeffer-005/goods-mill-m-j-meyerhoeffer-005-obverse.jpg
 image_reverse: tokens/goods-mill-m-j-meyerhoeffer-005/goods-mill-m-j-meyerhoeffer-005-reverse.jpg

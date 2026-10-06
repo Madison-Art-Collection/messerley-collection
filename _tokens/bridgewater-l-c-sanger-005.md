@@ -5,7 +5,8 @@ town: ["Bridgewater"]
 merchant: "L. C. Sanger"
 denomination: "$0.05"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman S5-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/bridgewater-l-c-sanger-005/bridgewater-l-c-sanger-005-obverse.jpg
 image_reverse: tokens/bridgewater-l-c-sanger-005/bridgewater-l-c-sanger-005-reverse.jpg

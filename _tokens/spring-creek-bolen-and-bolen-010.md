@@ -5,7 +5,8 @@ town: ["Spring Creek"]
 merchant: "Bolen & Bolen"
 denomination: "$0.10"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman B5-10a"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/spring-creek-bolen-and-bolen-010/spring-creek-bolen-and-bolen-010-obverse.jpg
 image_reverse: tokens/spring-creek-bolen-and-bolen-010/spring-creek-bolen-and-bolen-010-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Swift Run"]
 merchant: "W. H. Shifflett"
 denomination: "$0.50"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman S5-50"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/swift-run-w-h-shifflett-050/swift-run-w-h-shifflett-050-obverse.jpg
 image_reverse: tokens/swift-run-w-h-shifflett-050/swift-run-w-h-shifflett-050-reverse.jpg

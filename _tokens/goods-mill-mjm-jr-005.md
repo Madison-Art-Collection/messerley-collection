@@ -5,7 +5,8 @@ town: ["Goods Mill"]
 merchant: "M.J.M. Jr."
 denomination: "$0.05"
 style: "Octagon Bronze"
-catalog_reference:
+catalog_reference: "Schenkman M10-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/goods-mill-mjm-jr-005/goods-mill-mjm-jr-005-obverse.jpg
 image_reverse: tokens/goods-mill-mjm-jr-005/goods-mill-mjm-jr-005-reverse.jpg

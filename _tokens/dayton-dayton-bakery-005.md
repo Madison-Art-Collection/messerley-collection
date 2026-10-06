@@ -5,7 +5,8 @@ town: ["Dayton"]
 merchant: "Dayton Bakery"
 denomination: "$0.05"
 style: "Scalloped Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman D5-5"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/dayton-dayton-bakery-005/dayton-dayton-bakery-005-obverse.jpg
 image_reverse: tokens/dayton-dayton-bakery-005/dayton-dayton-bakery-005-reverse.jpg

@@ -5,7 +5,8 @@ town: ["North River"]
 merchant: "Kaylor Brothers"
 denomination: "$0.10"
 style: "Octagon Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman K5-10"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/north-river-kaylor-brothers-010/north-river-kaylor-brothers-010-obverse.jpg
 image_reverse: tokens/north-river-kaylor-brothers-010/north-river-kaylor-brothers-010-reverse.jpg

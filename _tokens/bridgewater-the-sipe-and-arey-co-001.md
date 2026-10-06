@@ -5,7 +5,8 @@ town: ["Bridgewater"]
 merchant: "The Sipe & Arey Co."
 denomination: "$0.01"
 style: "Round Bronze"
-catalog_reference:
+catalog_reference: "Schenkman S10-1"
+schenkman_rarity: "C"
 match_tier: exact
 image_obverse: tokens/bridgewater-the-sipe-and-arey-co-001/bridgewater-the-sipe-and-arey-co-001-obverse.jpg
 image_reverse: tokens/bridgewater-the-sipe-and-arey-co-001/bridgewater-the-sipe-and-arey-co-001-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Port Republic"]
 merchant: "M. J. Meyerhoeffer"
 denomination: "$0.10"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M5-10"
+schenkman_rarity: "B"
 match_tier: manual
 image_obverse: tokens/port-republic-m-j-meyerhoeffer-010/port-republic-m-j-meyerhoeffer-010-obverse.jpg
 image_reverse: tokens/port-republic-m-j-meyerhoeffer-010/port-republic-m-j-meyerhoeffer-010-reverse.jpg

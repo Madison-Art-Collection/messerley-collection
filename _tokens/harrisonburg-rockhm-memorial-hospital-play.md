@@ -5,7 +5,8 @@ town: ["Harrisonburg"]
 merchant: "Rockingham Memorial Hospital"
 denomination: "Radio"
 style: "Round Zinc"
-catalog_reference:
+catalog_reference: "Schenkman R10"
+schenkman_rarity: "A"
 match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-rockhm-memorial-hospital-play/harrisonburg-rockhm-memorial-hospital-play-obverse.jpg
 image_reverse: tokens/harrisonburg-rockhm-memorial-hospital-play/harrisonburg-rockhm-memorial-hospital-play-reverse.jpg

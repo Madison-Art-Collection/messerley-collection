@@ -67,7 +67,8 @@ town: ["Bridgewater"]
 merchant: "J. W. Click & Co."
 denomination: "$0.10"
 style: "Oval Aluminum"         # human-readable expansion of the `style` inventory column's shape/material code
-catalog_reference:             # optional, blank unless a published catalog number exists
+catalog_reference:             # optional; Schenkman, Virginia Tokens (2nd ed.) number, written as "Schenkman H5-10"; blank if none
+schenkman_rarity:              # optional; Schenkman's A/B/C rarity letter, only set together with catalog_reference
 match_tier: exact              # exact | fuzzy-denom | special-merchant-only (from token_inventory_matches.csv)
 image_obverse: tokens/bridgewater-click-010/bridgewater-click-010-obverse.jpg
 image_reverse: tokens/bridgewater-click-010/bridgewater-click-010-reverse.jpg
@@ -141,6 +142,11 @@ Optional free-form markdown body — merchant/town history, provenance notes, et
   not consistent across tokens. The image captions are simply "Obverse" and "Reverse".
 - The inventory's rarity is intentionally NOT part of this schema (removed 2026-10-04), and neither is
   estimated/appraisal value — it's private data, not for public display.
+
+- `catalog_reference` / `schenkman_rarity`: filled by `../scripts/apply_schenkman_website.py` from
+  `../schenkman_map.csv`, and only for rows whose status is "Schenkman # assigned". Rows flagged for
+  manual check, and blanks, are left empty. Schenkman's rarity letter is a published score from the
+  book, separate from the private inventory rarity above.
 
 ## Display Order
 

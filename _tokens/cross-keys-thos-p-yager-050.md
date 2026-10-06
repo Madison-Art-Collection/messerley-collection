@@ -5,7 +5,8 @@ town: ["Cross Keys"]
 merchant: "Thos. P. Yager"
 denomination: "$0.50"
 style: "Round Nickel"
-catalog_reference:
+catalog_reference: "Schenkman Y5-50"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/cross-keys-thos-p-yager-050/cross-keys-thos-p-yager-050-obverse.jpg
 image_reverse: tokens/cross-keys-thos-p-yager-050/cross-keys-thos-p-yager-050-reverse.jpg

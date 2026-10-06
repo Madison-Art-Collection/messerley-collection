@@ -5,7 +5,8 @@ town: ["Singers Glen"]
 merchant: "Swank and Armentrout"
 denomination: "$0.10"
 style: "Round Cardboard"
-catalog_reference:
+catalog_reference: "Schenkman S5-10"
+schenkman_rarity: "B"
 match_tier: fuzzy-denom
 image_obverse: tokens/singers-glen-swank-and-armentrout-010/singers-glen-swank-and-armentrout-010-obverse.jpg
 image_reverse: tokens/singers-glen-swank-and-armentrout-010/singers-glen-swank-and-armentrout-010-reverse.jpg

@@ -5,7 +5,8 @@ town: ["Port Republic"]
 merchant: "Mundy Smith & Mundy"
 denomination: "$0.25"
 style: "Round Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M25-25"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-mundy-smith-and-mundy-025/port-republic-mundy-smith-and-mundy-025-obverse.jpg
 image_reverse: tokens/port-republic-mundy-smith-and-mundy-025/port-republic-mundy-smith-and-mundy-025-reverse.jpg

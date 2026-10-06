@@ -5,7 +5,8 @@ town: ["Port Republic"]
 merchant: "Miller Showalter & Co. Ltd"
 denomination: "$0.01"
 style: "Octagon Aluminum"
-catalog_reference:
+catalog_reference: "Schenkman M20-1"
+schenkman_rarity: "B"
 match_tier: exact
 image_obverse: tokens/port-republic-miller-showalter-and-co-ltd-001/port-republic-miller-showalter-and-co-ltd-001-obverse.jpg
 image_reverse: tokens/port-republic-miller-showalter-and-co-ltd-001/port-republic-miller-showalter-and-co-ltd-001-reverse.jpg

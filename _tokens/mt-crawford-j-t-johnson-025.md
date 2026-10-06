@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/mt-crawford-j-t-johnson-025/mt-crawford-j-t-johnson-025-obverse.jpg
 image_reverse: tokens/mt-crawford-j-t-johnson-025/mt-crawford-j-t-johnson-025-reverse.jpg
 image_aligned: tokens/mt-crawford-j-t-johnson-025/mt-crawford-j-t-johnson-025-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Mt. Crawford|J. T. Johnson|$0.25"
 featured: false
 ---

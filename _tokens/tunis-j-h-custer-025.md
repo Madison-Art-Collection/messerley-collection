@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/tunis-j-h-custer-025/tunis-j-h-custer-025-obverse.jpg
 image_reverse: tokens/tunis-j-h-custer-025/tunis-j-h-custer-025-reverse.jpg
 image_aligned: tokens/tunis-j-h-custer-025/tunis-j-h-custer-025-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Tunis|J. H. Custer|$0.25"
 featured: false
 ---

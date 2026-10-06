@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-050/cross-keys-and-penn-laird-thos-p-yager-inc-050-obverse.jpg
 image_reverse: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-050/cross-keys-and-penn-laird-thos-p-yager-inc-050-reverse.jpg
 image_aligned: tokens/cross-keys-and-penn-laird-thos-p-yager-inc-050/cross-keys-and-penn-laird-thos-p-yager-inc-050-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Cross Keys & Penn Laird|Thos. P. Yager Inc.|$0.50"
 featured: false
 ---

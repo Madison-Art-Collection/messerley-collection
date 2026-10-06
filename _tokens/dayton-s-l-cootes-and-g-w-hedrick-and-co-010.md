@@ -10,8 +10,6 @@ match_tier: fuzzy-denom
 image_obverse: tokens/dayton-s-l-cootes-and-g-w-hedrick-and-co-010/dayton-s-l-cootes-and-g-w-hedrick-and-co-010-obverse.jpg
 image_reverse: tokens/dayton-s-l-cootes-and-g-w-hedrick-and-co-010/dayton-s-l-cootes-and-g-w-hedrick-and-co-010-reverse.jpg
 image_aligned: tokens/dayton-s-l-cootes-and-g-w-hedrick-and-co-010/dayton-s-l-cootes-and-g-w-hedrick-and-co-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Dayton|S. L. Cootes / G. W. Hedrick & Co.|$0.10"
 featured: false
 ---

@@ -10,8 +10,6 @@ match_tier: fuzzy-denom
 image_obverse: tokens/harrisonburg-m-w-of-a-camp-11485-005/harrisonburg-m-w-of-a-camp-11485-005-obverse.jpg
 image_reverse: tokens/harrisonburg-m-w-of-a-camp-11485-005/harrisonburg-m-w-of-a-camp-11485-005-reverse.jpg
 image_aligned: tokens/harrisonburg-m-w-of-a-camp-11485-005/harrisonburg-m-w-of-a-camp-11485-005-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Harrisonburg|M. W. of A. Camp #11485|$0.05"
 featured: false
 ---

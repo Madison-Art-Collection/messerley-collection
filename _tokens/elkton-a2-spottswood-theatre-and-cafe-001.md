@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/elkton-a2-spottswood-theatre-and-cafe-001/elkton-a2-spottswood-theatre-and-cafe-001-obverse.jpg
 image_reverse: tokens/elkton-a2-spottswood-theatre-and-cafe-001/elkton-a2-spottswood-theatre-and-cafe-001-reverse.jpg
 image_aligned: tokens/elkton-a2-spottswood-theatre-and-cafe-001/elkton-a2-spottswood-theatre-and-cafe-001-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Elkton|Spottswood Theatre & Cafe|$0.01"
 featured: false
 ---

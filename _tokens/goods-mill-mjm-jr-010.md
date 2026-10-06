@@ -10,8 +10,6 @@ match_tier: manual
 image_obverse: tokens/goods-mill-mjm-jr-010/goods-mill-mjm-jr-010-obverse.jpg
 image_reverse: tokens/goods-mill-mjm-jr-010/goods-mill-mjm-jr-010-reverse.jpg
 image_aligned: tokens/goods-mill-mjm-jr-010/goods-mill-mjm-jr-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Goods Mill|M.J.M. Jr.|$0.10"
 featured: false
 ---

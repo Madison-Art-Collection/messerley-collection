@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/clover-hill-j-s-garber-050/clover-hill-j-s-garber-050-obverse.jpg
 image_reverse: tokens/clover-hill-j-s-garber-050/clover-hill-j-s-garber-050-reverse.jpg
 image_aligned: tokens/clover-hill-j-s-garber-050/clover-hill-j-s-garber-050-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Clover Hill|J. S. Garber|$0.50"
 featured: false
 ---

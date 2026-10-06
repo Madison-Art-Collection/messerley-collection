@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/mt-crawford-a-s-houff-100/mt-crawford-a-s-houff-100-obverse.jpg
 image_reverse: tokens/mt-crawford-a-s-houff-100/mt-crawford-a-s-houff-100-reverse.jpg
 image_aligned: tokens/mt-crawford-a-s-houff-100/mt-crawford-a-s-houff-100-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Mt. Crawford|A. S. Houff|$1.00"
 featured: false
 ---

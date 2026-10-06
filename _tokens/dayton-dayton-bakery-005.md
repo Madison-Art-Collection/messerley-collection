@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/dayton-dayton-bakery-005/dayton-dayton-bakery-005-obverse.jpg
 image_reverse: tokens/dayton-dayton-bakery-005/dayton-dayton-bakery-005-reverse.jpg
 image_aligned: tokens/dayton-dayton-bakery-005/dayton-dayton-bakery-005-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Dayton|Dayton Bakery|$0.05"
 featured: false
 ---

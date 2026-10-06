@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/lynnwood-lynnwood-mercantile-co-001/lynnwood-lynnwood-mercantile-co-001-obverse.jpg
 image_reverse: tokens/lynnwood-lynnwood-mercantile-co-001/lynnwood-lynnwood-mercantile-co-001-reverse.jpg
 image_aligned: tokens/lynnwood-lynnwood-mercantile-co-001/lynnwood-lynnwood-mercantile-co-001-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Lynnwood|Lynnwood Mercantile Co|$0.01"
 featured: false
 ---

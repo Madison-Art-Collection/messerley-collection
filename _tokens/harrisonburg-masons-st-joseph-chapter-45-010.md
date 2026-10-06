@@ -10,8 +10,6 @@ match_tier: manual
 image_obverse: tokens/harrisonburg-masons-st-joseph-chapter-45-010/harrisonburg-masons-st-joseph-chapter-45-010-obverse.jpg
 image_reverse: tokens/harrisonburg-masons-st-joseph-chapter-45-010/harrisonburg-masons-st-joseph-chapter-45-010-reverse.jpg
 image_aligned: tokens/harrisonburg-masons-st-joseph-chapter-45-010/harrisonburg-masons-st-joseph-chapter-45-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Harrisonburg|St. Joseph Chapter #45|$0.10"
 featured: false
 ---

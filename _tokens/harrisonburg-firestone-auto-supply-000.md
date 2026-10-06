@@ -10,8 +10,6 @@ match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-firestone-auto-supply-000/harrisonburg-firestone-auto-supply-000-obverse.jpg
 image_reverse: tokens/harrisonburg-firestone-auto-supply-000/harrisonburg-firestone-auto-supply-000-reverse.jpg
 image_aligned: tokens/harrisonburg-firestone-auto-supply-000/harrisonburg-firestone-auto-supply-000-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Harrisonburg|Firestone Auto Supply|lucky"
 featured: false
 ---

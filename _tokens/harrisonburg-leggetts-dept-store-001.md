@@ -10,8 +10,6 @@ match_tier: special-merchant-only
 image_obverse: tokens/harrisonburg-leggetts-dept-store-001/harrisonburg-leggetts-dept-store-001-obverse.jpg
 image_reverse: tokens/harrisonburg-leggetts-dept-store-001/harrisonburg-leggetts-dept-store-001-reverse.jpg
 image_aligned: tokens/harrisonburg-leggetts-dept-store-001/harrisonburg-leggetts-dept-store-001-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Harrisonburg|Leggett's Dept. Store|$0.01"
 featured: false
 ---

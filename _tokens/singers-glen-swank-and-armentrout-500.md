@@ -10,8 +10,6 @@ match_tier: fuzzy-denom
 image_obverse: tokens/singers-glen-swank-and-armentrout-500/singers-glen-swank-and-armentrout-500-obverse.jpg
 image_reverse: tokens/singers-glen-swank-and-armentrout-500/singers-glen-swank-and-armentrout-500-reverse.jpg
 image_aligned: tokens/singers-glen-swank-and-armentrout-500/singers-glen-swank-and-armentrout-500-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Singers Glen|Swank and Armentrout|$5.00"
 featured: true
 ---

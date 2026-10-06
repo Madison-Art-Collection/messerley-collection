@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/lilly-w-h-sipe-100-2/lilly-w-h-sipe-100-2-obverse.jpg
 image_reverse: tokens/lilly-w-h-sipe-100-2/lilly-w-h-sipe-100-2-reverse.jpg
 image_aligned: tokens/lilly-w-h-sipe-100-2/lilly-w-h-sipe-100-2-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Lilly|W. H. Sipe|$1.00"
 featured: false
 ---

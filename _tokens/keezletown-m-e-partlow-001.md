@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/keezletown-m-e-partlow-001/keezletown-m-e-partlow-001-obverse.jpg
 image_reverse: tokens/keezletown-m-e-partlow-001/keezletown-m-e-partlow-001-reverse.jpg
 image_aligned: tokens/keezletown-m-e-partlow-001/keezletown-m-e-partlow-001-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Keezletown|M. E. Partlow|$0.01"
 featured: false
 ---

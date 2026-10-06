@@ -10,8 +10,6 @@ match_tier: fuzzy-denom
 image_obverse: tokens/montevideo-johnnys-esso-service-stat-050/montevideo-johnnys-esso-service-stat-050-obverse.jpg
 image_reverse: tokens/montevideo-johnnys-esso-service-stat-050/montevideo-johnnys-esso-service-stat-050-reverse.jpg
 image_aligned: tokens/montevideo-johnnys-esso-service-stat-050/montevideo-johnnys-esso-service-stat-050-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Montevideo|Johnny's Esso Service Stat.|$0.50"
 featured: false
 ---

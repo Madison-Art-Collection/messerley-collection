@@ -10,8 +10,6 @@ match_tier: special-merchant-only
 image_obverse: tokens/timberville-farmers-and-merchants-bank-001/timberville-farmers-and-merchants-bank-001-obverse.jpg
 image_reverse: tokens/timberville-farmers-and-merchants-bank-001/timberville-farmers-and-merchants-bank-001-reverse.jpg
 image_aligned: tokens/timberville-farmers-and-merchants-bank-001/timberville-farmers-and-merchants-bank-001-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Timberville|Farmers & Merchants Bank|$0.01"
 featured: false
 ---

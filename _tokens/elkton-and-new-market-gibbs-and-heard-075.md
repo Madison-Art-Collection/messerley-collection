@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/elkton-and-new-market-gibbs-and-heard-075/elkton-and-new-market-gibbs-and-heard-075-obverse.jpg
 image_reverse: tokens/elkton-and-new-market-gibbs-and-heard-075/elkton-and-new-market-gibbs-and-heard-075-reverse.jpg
 image_aligned: tokens/elkton-and-new-market-gibbs-and-heard-075/elkton-and-new-market-gibbs-and-heard-075-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Elkton & New Market|Gibbs & Heard|$0.75"
 featured: false
 ---

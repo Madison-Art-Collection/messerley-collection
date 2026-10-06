@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/keezletown-a-d-bertram-and-co-005/keezletown-a-d-bertram-and-co-005-obverse.jpg
 image_reverse: tokens/keezletown-a-d-bertram-and-co-005/keezletown-a-d-bertram-and-co-005-reverse.jpg
 image_aligned: tokens/keezletown-a-d-bertram-and-co-005/keezletown-a-d-bertram-and-co-005-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Keezletown|A. D. Bertram & Co.|$0.05"
 featured: false
 ---

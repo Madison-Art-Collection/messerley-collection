@@ -10,8 +10,6 @@ match_tier: special-merchant-only
 image_obverse: tokens/elkton-hensley-encased-cent/elkton-hensley-encased-cent-obverse.jpg
 image_reverse: tokens/elkton-hensley-encased-cent/elkton-hensley-encased-cent-reverse.jpg
 image_aligned: tokens/elkton-hensley-encased-cent/elkton-hensley-encased-cent-aligned.jpg
-obverse_description: "1948-D Lincoln cent encased in an aluminum lucky-piece mount"
-reverse_description:
 sort_key: "Elkton|Hensley Sales and Service|$0.01"
 featured: false
 ---

@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/port-republic-l-w-smith-and-bro-010/port-republic-l-w-smith-and-bro-010-obverse.jpg
 image_reverse: tokens/port-republic-l-w-smith-and-bro-010/port-republic-l-w-smith-and-bro-010-reverse.jpg
 image_aligned: tokens/port-republic-l-w-smith-and-bro-010/port-republic-l-w-smith-and-bro-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Port Republic|L. W. Smith & Bro.|$0.10"
 featured: false
 ---

@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/mt-clinton-w-e-long-and-sons-flower-100/mt-clinton-w-e-long-and-sons-flower-100-obverse.jpg
 image_reverse: tokens/mt-clinton-w-e-long-and-sons-flower-100/mt-clinton-w-e-long-and-sons-flower-100-reverse.jpg
 image_aligned: tokens/mt-clinton-w-e-long-and-sons-flower-100/mt-clinton-w-e-long-and-sons-flower-100-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Mt. Clinton|W. E. Long & Sons (Flower)|$1.00"
 featured: false
 ---

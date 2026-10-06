@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/tenth-legion-joseph-smith-and-bro-010/tenth-legion-joseph-smith-and-bro-010-obverse.jpg
 image_reverse: tokens/tenth-legion-joseph-smith-and-bro-010/tenth-legion-joseph-smith-and-bro-010-reverse.jpg
 image_aligned: tokens/tenth-legion-joseph-smith-and-bro-010/tenth-legion-joseph-smith-and-bro-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Tenth Legion|Joseph Smith & Bro.|$0.10"
 featured: false
 ---

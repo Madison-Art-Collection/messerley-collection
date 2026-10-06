@@ -10,8 +10,6 @@ match_tier: special-merchant-only
 image_obverse: tokens/rawley-springs-eds-park-001/rawley-springs-eds-park-001-obverse.jpg
 image_reverse: tokens/rawley-springs-eds-park-001/rawley-springs-eds-park-001-reverse.jpg
 image_aligned: tokens/rawley-springs-eds-park-001/rawley-springs-eds-park-001-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Rawley Springs|Ed's Park|$0.01"
 featured: false
 ---

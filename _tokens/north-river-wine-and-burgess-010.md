@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/north-river-wine-and-burgess-010/north-river-wine-and-burgess-010-obverse.jpg
 image_reverse: tokens/north-river-wine-and-burgess-010/north-river-wine-and-burgess-010-reverse.jpg
 image_aligned: tokens/north-river-wine-and-burgess-010/north-river-wine-and-burgess-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "North River|Wine & Burgess|$0.10"
 featured: false
 ---

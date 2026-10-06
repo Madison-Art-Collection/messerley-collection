@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/rockingham-h-h-heatwole-025/rockingham-h-h-heatwole-025-obverse.jpg
 image_reverse: tokens/rockingham-h-h-heatwole-025/rockingham-h-h-heatwole-025-reverse.jpg
 image_aligned: tokens/rockingham-h-h-heatwole-025/rockingham-h-h-heatwole-025-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Rockingham County|H. H. Heatwole|$0.25"
 featured: false
 ---

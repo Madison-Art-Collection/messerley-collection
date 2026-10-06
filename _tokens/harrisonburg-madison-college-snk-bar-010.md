@@ -10,8 +10,6 @@ match_tier: manual
 image_obverse: tokens/harrisonburg-madison-college-snk-bar-010/harrisonburg-madison-college-snk-bar-010-obverse.jpg
 image_reverse: tokens/harrisonburg-madison-college-snk-bar-010/harrisonburg-madison-college-snk-bar-010-reverse.jpg
 image_aligned: tokens/harrisonburg-madison-college-snk-bar-010/harrisonburg-madison-college-snk-bar-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Harrisonburg|Madison College Snk. Bar|$0.10"
 featured: false
 ---

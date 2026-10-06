@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/genoa-custers-dept-store-010/genoa-custers-dept-store-010-obverse.jpg
 image_reverse: tokens/genoa-custers-dept-store-010/genoa-custers-dept-store-010-reverse.jpg
 image_aligned: tokens/genoa-custers-dept-store-010/genoa-custers-dept-store-010-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Genoa|Custer's Dept. Store|$0.10"
 featured: false
 ---

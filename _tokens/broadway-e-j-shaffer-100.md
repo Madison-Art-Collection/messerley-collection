@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/broadway-e-j-shaffer-100/broadway-e-j-shaffer-100-obverse.jpg
 image_reverse: tokens/broadway-e-j-shaffer-100/broadway-e-j-shaffer-100-reverse.jpg
 image_aligned: tokens/broadway-e-j-shaffer-100/broadway-e-j-shaffer-100-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Broadway|E. J. Shaffer|$1.00"
 featured: false
 ---

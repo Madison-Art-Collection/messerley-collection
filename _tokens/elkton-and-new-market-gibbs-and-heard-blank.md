@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/elkton-and-new-market-gibbs-and-heard-blank/elkton-and-new-market-gibbs-and-heard-blank-obverse.jpg
 image_reverse: tokens/elkton-and-new-market-gibbs-and-heard-blank/elkton-and-new-market-gibbs-and-heard-blank-reverse.jpg
 image_aligned: tokens/elkton-and-new-market-gibbs-and-heard-blank/elkton-and-new-market-gibbs-and-heard-blank-aligned.jpg
-obverse_description:
-reverse_description: "Blank"
 sort_key: "Elkton & New Market|Gibbs & Heard|"
 featured: false
 ---

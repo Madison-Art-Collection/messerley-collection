@@ -10,8 +10,6 @@ match_tier: exact
 image_obverse: tokens/harrisonburg-state-teachers-college-002/harrisonburg-state-teachers-college-002-obverse.jpg
 image_reverse: tokens/harrisonburg-state-teachers-college-002/harrisonburg-state-teachers-college-002-reverse.jpg
 image_aligned: tokens/harrisonburg-state-teachers-college-002/harrisonburg-state-teachers-college-002-aligned.jpg
-obverse_description:
-reverse_description:
 sort_key: "Harrisonburg|State Teachers College|$0.02"
 featured: false
 ---
